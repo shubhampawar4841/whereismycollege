@@ -65,7 +65,8 @@ export default function Home() {
               <UserMenu />
             </div>
           </div>
-          <div className="text-center mb-4">
+          {/* Upload PDF Button - Hidden from public UI */}
+          {/* <div className="text-center mb-4">
             <Link
               href="/shubham"
               className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all text-sm font-medium"
@@ -73,7 +74,7 @@ export default function Home() {
               <Upload className="w-4 h-4" />
               <span>Upload PDF</span>
             </Link>
-          </div>
+          </div> */}
           <p className="text-xl text-gray-300 max-w-2xl mx-auto text-center">
             Find cutoff data for various entrance exams organized by categories
           </p>
@@ -107,11 +108,12 @@ export default function Home() {
                       </CardTitle>
                       <CardDescription className="text-gray-400 text-sm mt-1">
                         {category.exams.length} exam{category.exams.length !== 1 ? 's' : ''}
-                        {getUploadedCountForCategory(category.id) > 0 && (
+                        {/* Uploaded count - Hidden from public UI */}
+                        {/* {getUploadedCountForCategory(category.id) > 0 && (
                           <span className="text-green-400 ml-2">
                             +{getUploadedCountForCategory(category.id)} uploaded
                           </span>
-                        )}
+                        )} */}
                       </CardDescription>
                     </div>
                   </div>
@@ -196,10 +198,11 @@ export default function Home() {
               <CardDescription className="text-gray-400">Total Exam Types</CardDescription>
             </CardHeader>
             <CardContent>
-              <div className="text-3xl font-bold">{allExams.length + uploadedExams.length}</div>
-              {uploadedExams.length > 0 && (
+              <div className="text-3xl font-bold">{allExams.length}</div>
+              {/* Uploaded exams count - Hidden from public UI */}
+              {/* {uploadedExams.length > 0 && (
                 <p className="text-xs text-gray-500 mt-1">{uploadedExams.length} uploaded</p>
-              )}
+              )} */}
             </CardContent>
           </Card>
           <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">

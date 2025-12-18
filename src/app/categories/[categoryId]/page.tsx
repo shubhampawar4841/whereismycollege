@@ -238,8 +238,9 @@ export default function CategoryPage() {
             </div>
           </div>
 
-          {/* CSV Upload Section */}
-          <Card className="bg-gradient-to-br from-orange-500/10 to-yellow-600/10 border-orange-500/30 mb-6">
+          {/* CSV Upload Section - Hidden from public UI */}
+          {/* Access via: /admin/jee-mains-upload */}
+          {/* <Card className="bg-gradient-to-br from-orange-500/10 to-yellow-600/10 border-orange-500/30 mb-6">
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Upload className="w-5 h-5" />
@@ -252,7 +253,6 @@ export default function CategoryPage() {
             <CardContent>
               <form onSubmit={handleCsvUpload} className="space-y-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  {/* Year Selection */}
                   <div>
                     <label className="block text-sm font-medium text-gray-300 mb-2">Year</label>
                     <select
@@ -269,8 +269,6 @@ export default function CategoryPage() {
                       <option value="2020">2020</option>
                     </select>
                   </div>
-
-                  {/* Round Selection */}
                   <div>
                     <label className="block text-sm font-medium text-gray-300 mb-2">Round</label>
                     <select
@@ -287,8 +285,6 @@ export default function CategoryPage() {
                       <option value="round5">Round 5</option>
                     </select>
                   </div>
-
-                  {/* File Upload */}
                   <div>
                     <label className="block text-sm font-medium text-gray-300 mb-2">CSV File</label>
                     <input
@@ -304,24 +300,18 @@ export default function CategoryPage() {
                     )}
                   </div>
                 </div>
-
-                {/* Error Message */}
                 {uploadError && (
                   <div className="flex items-center gap-2 p-3 bg-red-500/10 border border-red-500/30 rounded-lg">
                     <XCircle className="w-4 h-4 text-red-400 flex-shrink-0" />
                     <span className="text-red-400 text-sm">{uploadError}</span>
                   </div>
                 )}
-
-                {/* Success Message */}
                 {uploadSuccess && (
                   <div className="flex items-center gap-2 p-3 bg-green-500/10 border border-green-500/30 rounded-lg">
                     <CheckCircle className="w-4 h-4 text-green-400 flex-shrink-0" />
                     <span className="text-green-400 text-sm">CSV uploaded successfully! Refreshing...</span>
                   </div>
                 )}
-
-                {/* Upload Button */}
                 <button
                   type="submit"
                   disabled={uploadingCsv || !csvFile}
@@ -341,7 +331,7 @@ export default function CategoryPage() {
                 </button>
               </form>
             </CardContent>
-          </Card>
+          </Card> */}
 
           {/* JEE Mains Years Grid */}
           {jeeMainsLoading ? (

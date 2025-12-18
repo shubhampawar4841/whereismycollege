@@ -602,7 +602,8 @@ export default function CutoffPage() {
                 <Sparkles className="w-5 h-5" />
                 <span>AI Recommendations</span>
               </Link>
-              <button
+              {/* Parse PDF Button - Hidden from public UI */}
+              {/* <button
                 onClick={parsePDF}
                 disabled={parsing}
                 className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all disabled:opacity-50 disabled:cursor-not-allowed"
@@ -618,7 +619,7 @@ export default function CutoffPage() {
                     <span>Parse PDF</span>
                   </>
                 )}
-              </button>
+              </button> */}
             </div>
           </div>
 
@@ -815,14 +816,15 @@ export default function CutoffPage() {
           <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">
             <CardContent className="py-20 text-center">
               <FileText className="w-16 h-16 mx-auto mb-4 text-gray-500" />
-              <p className="text-gray-400 mb-4">No data found. Please parse the PDF first.</p>
-              <button
+              <p className="text-gray-400 mb-4">No data found.</p>
+              {/* Parse PDF Button - Hidden from public UI */}
+              {/* <button
                 onClick={parsePDF}
                 disabled={parsing}
                 className="px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all disabled:opacity-50"
               >
                 Parse PDF
-              </button>
+              </button> */}
             </CardContent>
           </Card>
         ) : (
