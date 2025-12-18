@@ -7,6 +7,8 @@ import Link from 'next/link'
 import { useParams } from 'next/navigation'
 import { getCategoryDisplayName, getCategoryFullInfo, groupCategoriesByNormalizedName, getNormalizedCategories } from '@/lib/category-normalizer'
 import { extractLocation } from '@/lib/location-extractor'
+import { useMinimumLoading } from '@/hooks/use-minimum-loading'
+import { BouncingLoader } from '@/components/bouncing-loader'
 
 interface CutoffData {
   college_code: string
@@ -172,6 +174,7 @@ export default function CutoffPage() {
 
   const [data, setData] = useState<CutoffData[]>([])
   const [loading, setLoading] = useState(true)
+  const showLoading = useMinimumLoading(loading, 3500) // Show for at least 3.5 seconds
 
   // Fetch exam metadata if available
   useEffect(() => {
@@ -808,9 +811,9 @@ export default function CutoffPage() {
         </Card>
 
         {/* Data Table */}
-        {loading ? (
+        {showLoading ? (
           <div className="flex items-center justify-center py-20">
-            <Loader2 className="w-8 h-8 animate-spin text-purple-500" />
+            <BouncingLoader />
           </div>
         ) : data.length === 0 ? (
           <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">

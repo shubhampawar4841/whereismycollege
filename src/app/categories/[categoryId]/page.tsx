@@ -2,10 +2,12 @@
 
 import { useState, useEffect } from 'react'
 import { ArrowLeft, FileText, Upload, Loader2, CheckCircle, XCircle } from 'lucide-react'
+import { BouncingLoader } from '@/components/bouncing-loader'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import Link from 'next/link'
 import { useParams, useRouter } from 'next/navigation'
 import { examCategories, getExamsByCategory, type ExamType } from '@/lib/exam-categories'
+import { useMinimumLoading } from '@/hooks/use-minimum-loading'
 
 interface UploadedExam {
   id: string
@@ -24,6 +26,7 @@ export default function CategoryPage() {
   // Handle JEE Mains separately - show years as cards
   const [jeeMainsYears, setJeeMainsYears] = useState<string[]>([])
   const [jeeMainsLoading, setJeeMainsLoading] = useState(false)
+  const showJeeMainsLoading = useMinimumLoading(jeeMainsLoading, 3500) // Show for at least 3.5 seconds
   const [uploadingCsv, setUploadingCsv] = useState(false)
   const [uploadSuccess, setUploadSuccess] = useState(false)
   const [uploadError, setUploadError] = useState('')
@@ -334,9 +337,9 @@ export default function CategoryPage() {
           </Card> */}
 
           {/* JEE Mains Years Grid */}
-          {jeeMainsLoading ? (
+          {showJeeMainsLoading ? (
             <div className="flex items-center justify-center py-12">
-              <Loader2 className="w-8 h-8 animate-spin text-orange-500" />
+              <BouncingLoader />
             </div>
           ) : jeeMainsYears.length > 0 ? (
             <>

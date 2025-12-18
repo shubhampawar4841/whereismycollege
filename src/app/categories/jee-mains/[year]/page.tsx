@@ -2,9 +2,11 @@
 
 import { useState, useEffect } from 'react'
 import { ArrowLeft, FileText, Loader2 } from 'lucide-react'
+import { BouncingLoader } from '@/components/bouncing-loader'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import Link from 'next/link'
 import { useParams } from 'next/navigation'
+import { useMinimumLoading } from '@/hooks/use-minimum-loading'
 
 interface JeeMainsRound {
   id: string
@@ -20,6 +22,7 @@ export default function JeeMainsYearPage() {
   const year = params?.year as string
   const [rounds, setRounds] = useState<JeeMainsRound[]>([])
   const [loading, setLoading] = useState(true)
+  const showLoading = useMinimumLoading(loading, 3500) // Show for at least 3.5 seconds
 
   useEffect(() => {
     fetchRounds()
@@ -77,9 +80,9 @@ export default function JeeMainsYearPage() {
         </div>
 
         {/* Rounds Grid */}
-        {loading ? (
+        {showLoading ? (
           <div className="flex items-center justify-center py-12">
-            <Loader2 className="w-8 h-8 animate-spin text-orange-500" />
+            <BouncingLoader />
           </div>
         ) : rounds.length > 0 ? (
           <>
