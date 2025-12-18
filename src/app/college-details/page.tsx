@@ -139,24 +139,24 @@ export default function CollegeDetailsPage() {
 
   return (
     <div className="min-h-screen bg-black text-white">
-      <div className="container mx-auto px-4 py-12 max-w-7xl">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-12 max-w-7xl">
         {/* Header */}
-        <div className="mb-8">
+        <div className="mb-6 sm:mb-8">
           <Link 
             href="/"
-            className="inline-flex items-center gap-2 text-gray-400 hover:text-white mb-6 transition-colors"
+            className="inline-flex items-center gap-2 text-gray-400 hover:text-white mb-4 sm:mb-6 transition-colors text-sm sm:text-base"
           >
             <ArrowLeft className="w-4 h-4" />
             <span>Back to Home</span>
           </Link>
           
-          <div className="flex items-center gap-4 mb-4">
-            <Building2 className="w-8 h-8 text-purple-400" />
-            <div>
-              <h1 className="text-4xl font-bold mb-2 bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent">
+          <div className="flex items-center gap-3 sm:gap-4 mb-4">
+            <Building2 className="w-6 h-6 sm:w-8 sm:h-8 text-purple-400 flex-shrink-0" />
+            <div className="min-w-0">
+              <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-2 bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent">
                 College Details Explorer
               </h1>
-              <p className="text-gray-300">
+              <p className="text-gray-300 text-sm sm:text-base">
                 View all cutoff data for any college across all years and rounds
               </p>
             </div>
@@ -164,15 +164,15 @@ export default function CollegeDetailsPage() {
         </div>
 
         {/* Search Card */}
-        <Card className="bg-gradient-to-br from-purple-500/10 to-pink-600/10 border-purple-500/30 mb-8">
+        <Card className="bg-gradient-to-br from-purple-500/10 to-pink-600/10 border-purple-500/30 mb-6 sm:mb-8">
           <CardHeader>
-            <CardTitle>Search College</CardTitle>
-            <CardDescription>
+            <CardTitle className="text-lg sm:text-xl">Search College</CardTitle>
+            <CardDescription className="text-xs sm:text-sm">
               Enter a college name to view all available cutoff data
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <div className="flex gap-4">
+            <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
               <div className="flex-1">
                 {loadingColleges ? (
                   <div className="flex items-center justify-center h-12">
@@ -186,7 +186,7 @@ export default function CollegeDetailsPage() {
                     onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
                     placeholder="Search college name..."
                     list="colleges-list-details"
-                    className="w-full px-4 py-3 bg-black/50 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition-colors"
+                    className="w-full px-3 sm:px-4 py-2.5 sm:py-3 text-sm sm:text-base bg-black/50 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition-colors"
                   />
                 )}
                 <datalist id="colleges-list-details">
@@ -198,16 +198,16 @@ export default function CollegeDetailsPage() {
               <button
                 onClick={handleSearch}
                 disabled={loading || !college.trim()}
-                className="px-8 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all disabled:opacity-50 disabled:cursor-not-allowed font-medium flex items-center gap-2"
+                className="w-full sm:w-auto px-6 sm:px-8 py-2.5 sm:py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all disabled:opacity-50 disabled:cursor-not-allowed font-medium flex items-center justify-center gap-2 text-sm sm:text-base"
               >
                 {loading ? (
                   <>
-                    <Loader2 className="w-5 h-5 animate-spin" />
+                    <Loader2 className="w-4 h-4 sm:w-5 sm:h-5 animate-spin" />
                     <span>Searching...</span>
                   </>
                 ) : (
                   <>
-                    <Search className="w-5 h-5" />
+                    <Search className="w-4 h-4 sm:w-5 sm:h-5" />
                     <span>Search</span>
                   </>
                 )}
@@ -275,9 +275,9 @@ export default function CollegeDetailsPage() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-3 sm:gap-4">
                   <div>
-                    <label className="block text-sm font-medium text-gray-300 mb-2">Year</label>
+                    <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">Year</label>
                     <select
                       value={selectedYear}
                       onChange={(e) => setSelectedYear(e.target.value)}
@@ -290,7 +290,7 @@ export default function CollegeDetailsPage() {
                     </select>
                   </div>
                   <div>
-                    <label className="block text-sm font-medium text-gray-300 mb-2">Round</label>
+                    <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">Round</label>
                     <select
                       value={selectedRound}
                       onChange={(e) => setSelectedRound(e.target.value)}
@@ -305,7 +305,7 @@ export default function CollegeDetailsPage() {
                     </select>
                   </div>
                   <div>
-                    <label className="block text-sm font-medium text-gray-300 mb-2">Branch</label>
+                    <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">Branch</label>
                     <select
                       value={selectedBranch}
                       onChange={(e) => setSelectedBranch(e.target.value)}
@@ -318,7 +318,7 @@ export default function CollegeDetailsPage() {
                     </select>
                   </div>
                   <div>
-                    <label className="block text-sm font-medium text-gray-300 mb-2">Quota</label>
+                    <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">Quota</label>
                     <select
                       value={selectedQuota}
                       onChange={(e) => setSelectedQuota(e.target.value)}
@@ -331,7 +331,7 @@ export default function CollegeDetailsPage() {
                     </select>
                   </div>
                   <div>
-                    <label className="block text-sm font-medium text-gray-300 mb-2">Seat Type</label>
+                    <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">Seat Type</label>
                     <select
                       value={selectedSeatType}
                       onChange={(e) => setSelectedSeatType(e.target.value)}
@@ -376,29 +376,33 @@ export default function CollegeDetailsPage() {
                       </CardTitle>
                     </CardHeader>
                     <CardContent>
-                      <div className="overflow-x-auto">
-                        <table className="w-full">
-                          <thead>
-                            <tr className="border-b border-white/10">
-                              <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Branch</th>
-                              <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Quota</th>
-                              <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Seat Type</th>
-                              <th className="px-4 py-3 text-right text-sm font-semibold text-gray-300">Opening Rank</th>
-                              <th className="px-4 py-3 text-right text-sm font-semibold text-gray-300">Closing Rank</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            {group.items.map((item, itemIdx) => (
-                              <tr key={itemIdx} className="border-b border-white/5 hover:bg-white/5 transition-colors">
-                                <td className="px-4 py-3 text-sm">{item.branch}</td>
-                                <td className="px-4 py-3 text-sm">{item.quota}</td>
-                                <td className="px-4 py-3 text-sm">{item.seatType}</td>
-                                <td className="px-4 py-3 text-sm text-right font-mono">{item.openingRank.toLocaleString()}</td>
-                                <td className="px-4 py-3 text-sm text-right font-mono">{item.closingRank.toLocaleString()}</td>
-                              </tr>
-                            ))}
-                          </tbody>
-                        </table>
+                      <div className="overflow-x-auto -mx-3 sm:mx-0">
+                        <div className="inline-block min-w-full align-middle">
+                          <div className="overflow-x-auto">
+                            <table className="w-full min-w-[700px]">
+                              <thead>
+                                <tr className="border-b border-white/10">
+                                  <th className="px-3 sm:px-4 py-2 sm:py-3 text-left text-xs sm:text-sm font-semibold text-gray-300">Branch</th>
+                                  <th className="px-3 sm:px-4 py-2 sm:py-3 text-left text-xs sm:text-sm font-semibold text-gray-300">Quota</th>
+                                  <th className="px-3 sm:px-4 py-2 sm:py-3 text-left text-xs sm:text-sm font-semibold text-gray-300">Seat Type</th>
+                                  <th className="px-3 sm:px-4 py-2 sm:py-3 text-right text-xs sm:text-sm font-semibold text-gray-300">Opening Rank</th>
+                                  <th className="px-3 sm:px-4 py-2 sm:py-3 text-right text-xs sm:text-sm font-semibold text-gray-300">Closing Rank</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                {group.items.map((item, itemIdx) => (
+                                  <tr key={itemIdx} className="border-b border-white/5 hover:bg-white/5 transition-colors">
+                                    <td className="px-3 sm:px-4 py-2 sm:py-3 text-xs sm:text-sm">{item.branch}</td>
+                                    <td className="px-3 sm:px-4 py-2 sm:py-3 text-xs sm:text-sm">{item.quota}</td>
+                                    <td className="px-3 sm:px-4 py-2 sm:py-3 text-xs sm:text-sm">{item.seatType}</td>
+                                    <td className="px-3 sm:px-4 py-2 sm:py-3 text-xs sm:text-sm text-right font-mono">{item.openingRank.toLocaleString()}</td>
+                                    <td className="px-3 sm:px-4 py-2 sm:py-3 text-xs sm:text-sm text-right font-mono">{item.closingRank.toLocaleString()}</td>
+                                  </tr>
+                                ))}
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
                       </div>
                     </CardContent>
                   </Card>

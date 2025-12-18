@@ -66,7 +66,7 @@ const TableRow = ({ row, isJeeMains = false }: { row: CutoffData; isJeeMains?: b
   
   return (
     <tr className="border-b border-white/5 hover:bg-white/5 transition-colors">
-      <td className="px-6 py-4">
+      <td className="px-3 sm:px-6 py-3 sm:py-4">
         <div className="flex items-center gap-2">
           <GraduationCap className="w-4 h-4 text-purple-400 flex-shrink-0" />
           <div className="flex-1">
@@ -83,7 +83,7 @@ const TableRow = ({ row, isJeeMains = false }: { row: CutoffData; isJeeMains?: b
           </div>
         </div>
       </td>
-      <td className="px-6 py-4">
+      <td className="px-3 sm:px-6 py-3 sm:py-4">
         <div className="flex items-center gap-2">
           <BookOpen className="w-4 h-4 text-pink-400 flex-shrink-0" />
           <div>
@@ -92,7 +92,7 @@ const TableRow = ({ row, isJeeMains = false }: { row: CutoffData; isJeeMains?: b
           </div>
         </div>
       </td>
-      <td className="px-6 py-4">
+      <td className="px-3 sm:px-6 py-3 sm:py-4">
         {isJeeMains ? (
           <span className="px-2 py-1 rounded bg-orange-500/20 text-orange-300 text-xs font-medium">
             {row.category}
@@ -106,7 +106,7 @@ const TableRow = ({ row, isJeeMains = false }: { row: CutoffData; isJeeMains?: b
           </span>
         )}
       </td>
-      <td className="px-6 py-4">
+      <td className="px-3 sm:px-6 py-3 sm:py-4">
         <span 
           className="px-2 py-1 rounded text-xs font-medium"
           style={{
@@ -449,23 +449,23 @@ export default function CutoffPage() {
 
   return (
     <div className="min-h-screen bg-black text-white">
-      <div className="container mx-auto px-4 py-8 max-w-7xl">
+      <div className="container mx-auto px-3 sm:px-4 py-4 sm:py-8 max-w-7xl">
         {/* Comparison Section */}
-        <Card className="bg-gradient-to-br from-green-500/10 to-emerald-600/10 border-green-500/30 mb-6">
+        <Card className="bg-gradient-to-br from-green-500/10 to-emerald-600/10 border-green-500/30 mb-4 sm:mb-6">
           <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <GitCompare className="w-5 h-5" />
+            <CardTitle className="flex items-center gap-2 text-lg sm:text-xl">
+              <GitCompare className="w-4 h-4 sm:w-5 sm:h-5" />
               Compare Colleges
             </CardTitle>
-            <CardDescription>
+            <CardDescription className="text-xs sm:text-sm">
               Select up to 4 colleges to compare their cutoff data across all categories
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <div className="space-y-4">
+            <div className="space-y-3 sm:space-y-4">
               {/* College Selection */}
               <div>
-                <label className="block text-sm font-medium text-gray-300 mb-2">
+                <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">
                   Select Colleges ({selectedColleges.length}/4)
                 </label>
                 <div className="flex flex-wrap gap-2 mb-3">
@@ -490,7 +490,7 @@ export default function CutoffPage() {
                 {selectedColleges.length < 4 && (
                   <div className="relative" ref={collegeSearchRef}>
                     <div className="relative">
-                      <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
+                      <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4 sm:w-5 sm:h-5" />
                       <input
                         type="text"
                         placeholder="Search college by name or code..."
@@ -500,7 +500,7 @@ export default function CutoffPage() {
                           setShowCollegeDropdown(true)
                         }}
                         onFocus={() => setShowCollegeDropdown(true)}
-                        className="w-full pl-10 pr-4 py-2 bg-black/50 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-green-500 transition-colors"
+                        className="w-full pl-9 sm:pl-10 pr-3 sm:pr-4 py-2 text-sm sm:text-base bg-black/50 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-green-500 transition-colors"
                       />
                     </div>
                     {showCollegeDropdown && filteredColleges.length > 0 && (
@@ -627,61 +627,61 @@ export default function CutoffPage() {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4">
             <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">
               <CardHeader className="pb-2">
                 <CardDescription className="text-gray-400">Total Records</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{total.toLocaleString()}</div>
+                <div className="text-xl sm:text-2xl font-bold">{total.toLocaleString()}</div>
               </CardContent>
             </Card>
             <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">
               <CardHeader className="pb-2">
-                <CardDescription className="text-gray-400">Colleges</CardDescription>
+                <CardDescription className="text-gray-400 text-xs sm:text-sm">Colleges</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{filters.colleges.length}</div>
+                <div className="text-xl sm:text-2xl font-bold">{filters.colleges.length}</div>
               </CardContent>
             </Card>
             <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">
               <CardHeader className="pb-2">
-                <CardDescription className="text-gray-400">Courses</CardDescription>
+                <CardDescription className="text-gray-400 text-xs sm:text-sm">Courses</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{filters.courses.length}</div>
+                <div className="text-xl sm:text-2xl font-bold">{filters.courses.length}</div>
               </CardContent>
             </Card>
             <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">
               <CardHeader className="pb-2">
-                <CardDescription className="text-gray-400">Categories</CardDescription>
+                <CardDescription className="text-gray-400 text-xs sm:text-sm">Categories</CardDescription>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{filters.categories.length}</div>
+                <div className="text-xl sm:text-2xl font-bold">{filters.categories.length}</div>
               </CardContent>
             </Card>
           </div>
         </div>
 
         {/* Search and Filters */}
-        <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30 mb-6">
+        <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30 mb-4 sm:mb-6">
           <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <Search className="w-5 h-5" />
+            <CardTitle className="flex items-center gap-2 text-lg sm:text-xl">
+              <Search className="w-4 h-4 sm:w-5 sm:h-5" />
               Search & Filter
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <div className="space-y-4">
+            <div className="space-y-3 sm:space-y-4">
               {/* Search Bar */}
               <div className="relative">
-                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
+                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4 sm:w-5 sm:h-5" />
                 <input
                   type="text"
-                  placeholder="Search by college, course, or location (e.g., 'colleges in Amravati', 'Amravati area')..."
+                  placeholder="Search by college, course, or location..."
                   value={search}
                   onChange={(e) => setSearch(e.target.value)}
-                  className="w-full pl-10 pr-4 py-3 bg-black/50 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition-colors"
+                  className="w-full pl-9 sm:pl-10 pr-3 sm:pr-4 py-2.5 sm:py-3 text-sm sm:text-base bg-black/50 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition-colors"
                 />
               </div>
 
@@ -834,37 +834,41 @@ export default function CutoffPage() {
           <>
             <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/30">
               <CardContent className="p-0">
-                <div className="overflow-x-auto">
-                  <table className="w-full">
-                    <thead>
-                      <tr className="border-b border-white/10">
-                        <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">College</th>
-                        <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">{isJeeMains ? 'Branch' : 'Course'}</th>
-                        <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">{isJeeMains ? 'Quota' : 'Category'}</th>
-                        <th className="px-6 py-4 text-left text-sm font-semibold text-gray-300">Seat Type</th>
-                        {isJeeMains ? (
-                          <>
-                            <th className="px-6 py-4 text-right text-sm font-semibold text-gray-300">Opening Rank</th>
-                            <th className="px-6 py-4 text-right text-sm font-semibold text-gray-300">Closing Rank</th>
-                          </>
-                        ) : (
-                          <>
-                            <th className="px-6 py-4 text-right text-sm font-semibold text-gray-300">Rank</th>
-                            <th className="px-6 py-4 text-right text-sm font-semibold text-gray-300">Percentile</th>
-                          </>
-                        )}
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {data.map((row, index) => (
-                        <TableRow 
-                          key={`${row.college_code}-${row.course_code}-${row.category}-${index}`} 
-                          row={row}
-                          isJeeMains={isJeeMains}
-                        />
-                      ))}
-                    </tbody>
-                  </table>
+                <div className="overflow-x-auto -mx-3 sm:mx-0">
+                  <div className="inline-block min-w-full align-middle">
+                    <div className="overflow-x-auto">
+                      <table className="w-full min-w-[800px]">
+                        <thead>
+                          <tr className="border-b border-white/10">
+                            <th className="px-3 sm:px-6 py-3 sm:py-4 text-left text-xs sm:text-sm font-semibold text-gray-300">College</th>
+                            <th className="px-3 sm:px-6 py-3 sm:py-4 text-left text-xs sm:text-sm font-semibold text-gray-300">{isJeeMains ? 'Branch' : 'Course'}</th>
+                            <th className="px-3 sm:px-6 py-3 sm:py-4 text-left text-xs sm:text-sm font-semibold text-gray-300">{isJeeMains ? 'Quota' : 'Category'}</th>
+                            <th className="px-3 sm:px-6 py-3 sm:py-4 text-left text-xs sm:text-sm font-semibold text-gray-300">Seat Type</th>
+                            {isJeeMains ? (
+                              <>
+                                <th className="px-3 sm:px-6 py-3 sm:py-4 text-right text-xs sm:text-sm font-semibold text-gray-300">Opening Rank</th>
+                                <th className="px-3 sm:px-6 py-3 sm:py-4 text-right text-xs sm:text-sm font-semibold text-gray-300">Closing Rank</th>
+                              </>
+                            ) : (
+                              <>
+                                <th className="px-3 sm:px-6 py-3 sm:py-4 text-right text-xs sm:text-sm font-semibold text-gray-300">Rank</th>
+                                <th className="px-3 sm:px-6 py-3 sm:py-4 text-right text-xs sm:text-sm font-semibold text-gray-300">Percentile</th>
+                              </>
+                            )}
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {data.map((row, index) => (
+                            <TableRow 
+                              key={`${row.college_code}-${row.course_code}-${row.category}-${index}`} 
+                              row={row}
+                              isJeeMains={isJeeMains}
+                            />
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
                 </div>
               </CardContent>
             </Card>
@@ -991,70 +995,74 @@ export default function CutoffPage() {
                           </CardTitle>
                         </CardHeader>
                         <CardContent>
-                          <div className="overflow-x-auto">
-                            <table className="w-full">
-                              <thead>
-                                <tr className="border-b border-white/10">
-                                  <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">College</th>
-                                  <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Location</th>
-                                  <th className="px-4 py-3 text-center text-sm font-semibold text-gray-300">Seat Type</th>
-                                  <th className="px-4 py-3 text-right text-sm font-semibold text-gray-300">Cutoff %</th>
-                                  <th className="px-4 py-3 text-right text-sm font-semibold text-gray-300">Rank</th>
-                                  <th className="px-4 py-3 text-center text-sm font-semibold text-gray-300">All Options</th>
-                                </tr>
-                              </thead>
-                              <tbody>
-                                {categoryRows.map((row, rowIdx) => (
-                                  <tr key={rowIdx} className="border-b border-white/5 hover:bg-white/5 transition-colors">
-                                    <td className="px-4 py-4">
-                                      <div className="font-medium text-white">{row.college}</div>
-                                      <div className="text-xs text-gray-500">Code: {row.collegeCode}</div>
-                                    </td>
-                                    <td className="px-4 py-4">
-                                      {row.location && (
-                                        <span className="flex items-center gap-1 text-sm text-gray-300">
-                                          <MapPin className="w-4 h-4" />
-                                          {row.location}
-                                        </span>
-                                      )}
-                                    </td>
-                                    <td className="px-4 py-4 text-center">
-                                      <span className="px-2 py-1 rounded bg-green-500/20 text-green-300 text-xs">
-                                        {getSeatTypeShortName(row.categoryData.bestSeatType)}
-                                      </span>
-                                    </td>
-                                    <td className="px-4 py-4 text-right">
-                                      <span className="font-mono text-purple-400 font-semibold">
-                                        {row.categoryData.bestPercentile.toFixed(2)}%
-                                      </span>
-                                    </td>
-                                    <td className="px-4 py-4 text-right">
-                                      <span className="font-mono text-gray-300">
-                                        {row.categoryData.bestRank.toLocaleString()}
-                                      </span>
-                                    </td>
-                                    <td className="px-4 py-4">
-                                      <div className="flex flex-wrap gap-1 justify-center">
-                                        {row.categoryData.seatTypeData.slice(0, 3).map((seat: any, seatIdx: number) => (
-                                          <span
-                                            key={seatIdx}
-                                            className="px-2 py-1 rounded bg-purple-500/10 text-purple-300 text-xs"
-                                            title={`${seat.seatType}: ${seat.percentile.toFixed(2)}%`}
-                                          >
-                                            {getSeatTypeShortName(seat.seatType)}: {seat.percentile.toFixed(1)}%
+                          <div className="overflow-x-auto -mx-3 sm:mx-0">
+                            <div className="inline-block min-w-full align-middle">
+                              <div className="overflow-x-auto">
+                                <table className="w-full min-w-[800px]">
+                                  <thead>
+                                    <tr className="border-b border-white/10">
+                                      <th className="px-3 sm:px-4 py-2 sm:py-3 text-left text-xs sm:text-sm font-semibold text-gray-300">College</th>
+                                      <th className="px-3 sm:px-4 py-2 sm:py-3 text-left text-xs sm:text-sm font-semibold text-gray-300">Location</th>
+                                      <th className="px-3 sm:px-4 py-2 sm:py-3 text-center text-xs sm:text-sm font-semibold text-gray-300">Seat Type</th>
+                                      <th className="px-3 sm:px-4 py-2 sm:py-3 text-right text-xs sm:text-sm font-semibold text-gray-300">Cutoff %</th>
+                                      <th className="px-3 sm:px-4 py-2 sm:py-3 text-right text-xs sm:text-sm font-semibold text-gray-300">Rank</th>
+                                      <th className="px-3 sm:px-4 py-2 sm:py-3 text-center text-xs sm:text-sm font-semibold text-gray-300">All Options</th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    {categoryRows.map((row, rowIdx) => (
+                                      <tr key={rowIdx} className="border-b border-white/5 hover:bg-white/5 transition-colors">
+                                        <td className="px-3 sm:px-4 py-2 sm:py-4">
+                                          <div className="font-medium text-white text-xs sm:text-sm">{row.college}</div>
+                                          <div className="text-xs text-gray-500">Code: {row.collegeCode}</div>
+                                        </td>
+                                        <td className="px-3 sm:px-4 py-2 sm:py-4">
+                                          {row.location && (
+                                            <span className="flex items-center gap-1 text-xs sm:text-sm text-gray-300">
+                                              <MapPin className="w-3 h-3 sm:w-4 sm:h-4" />
+                                              {row.location}
+                                            </span>
+                                          )}
+                                        </td>
+                                        <td className="px-3 sm:px-4 py-2 sm:py-4 text-center">
+                                          <span className="px-2 py-1 rounded bg-green-500/20 text-green-300 text-xs">
+                                            {getSeatTypeShortName(row.categoryData.bestSeatType)}
                                           </span>
-                                        ))}
-                                        {row.categoryData.seatTypeData.length > 3 && (
-                                          <span className="px-2 py-1 rounded bg-gray-500/10 text-gray-400 text-xs">
-                                            +{row.categoryData.seatTypeData.length - 3}
+                                        </td>
+                                        <td className="px-3 sm:px-4 py-2 sm:py-4 text-right">
+                                          <span className="font-mono text-purple-400 font-semibold text-xs sm:text-sm">
+                                            {row.categoryData.bestPercentile.toFixed(2)}%
                                           </span>
-                                        )}
-                                      </div>
-                                    </td>
-                                  </tr>
-                                ))}
-                              </tbody>
-                            </table>
+                                        </td>
+                                        <td className="px-3 sm:px-4 py-2 sm:py-4 text-right">
+                                          <span className="font-mono text-gray-300 text-xs sm:text-sm">
+                                            {row.categoryData.bestRank.toLocaleString()}
+                                          </span>
+                                        </td>
+                                        <td className="px-3 sm:px-4 py-2 sm:py-4">
+                                          <div className="flex flex-wrap gap-1 justify-center">
+                                            {row.categoryData.seatTypeData.slice(0, 3).map((seat: any, seatIdx: number) => (
+                                              <span
+                                                key={seatIdx}
+                                                className="px-2 py-1 rounded bg-purple-500/10 text-purple-300 text-xs"
+                                                title={`${seat.seatType}: ${seat.percentile.toFixed(2)}%`}
+                                              >
+                                                {getSeatTypeShortName(seat.seatType)}: {seat.percentile.toFixed(1)}%
+                                              </span>
+                                            ))}
+                                            {row.categoryData.seatTypeData.length > 3 && (
+                                              <span className="px-2 py-1 rounded bg-gray-500/10 text-gray-400 text-xs">
+                                                +{row.categoryData.seatTypeData.length - 3}
+                                              </span>
+                                            )}
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    ))}
+                                  </tbody>
+                                </table>
+                              </div>
+                            </div>
                           </div>
                         </CardContent>
                       </Card>
