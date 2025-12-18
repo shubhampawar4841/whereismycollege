@@ -1,0 +1,905 @@
+college_code,college_name,course_code,course_name,seat_type,category,rank,percentile
+1106,"Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal",0110610110,BCA,State Level,CAP,1111,0.0
+1106,"Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal",0110610110,BCA,State Level,III,0,0.0
+1106,"Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal",0110610110,BCA,State Level,BCA,0,0.0
+1106,"Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal",0110610110,BCA,State Level,MCA,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,12731,72.0959333
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,26655,39.508043
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,LSCH,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,18223,59.6768132
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSCO,30766,29.2735659
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,GSCO,31043,28.717414
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,GNTBO,40000,4.3120125
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,GOBCO,22090,50.364279
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCO,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,State Level,DEFOPENS,26048,41.6402421
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,State Level,TFWS,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,State Level,CAP,1113,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,State Level,III,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,State Level,BCA,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",0111110110,BCA,State Level,MCA,0,0.0
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,18222,59.6768132
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,16.8001154
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,Home University Seats Allotted to Home University Candidates,GOPENO,38057,9.7742191
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,Home University Seats Allotted to Home University Candidates,GOBCO,39021,7.4300951
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,State Level,CAP,1314,0.0
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,State Level,III,0,0.0
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,State Level,BCA,0,0.0
+1113,"Sadhana Shikshan Mandal, Saraswati College, Shegaon",0111310110,BCA,State Level,MCA,0,0.0
+1318,SMT. KESHARBAI LAHOTI MAHAVIDYALAYA,0131810170,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,24843,44.3499568
+1318,SMT. KESHARBAI LAHOTI MAHAVIDYALAYA,0131810170,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,29688,32.3044838
+1318,SMT. KESHARBAI LAHOTI MAHAVIDYALAYA,0131810170,BCA,State Level,CAP,1320,0.0
+1318,SMT. KESHARBAI LAHOTI MAHAVIDYALAYA,0131810170,BCA,State Level,III,0,0.0
+1318,SMT. KESHARBAI LAHOTI MAHAVIDYALAYA,0131810170,BCA,State Level,BCA,0,0.0
+1318,SMT. KESHARBAI LAHOTI MAHAVIDYALAYA,0131810170,BCA,State Level,MCA,0,0.0
+1321,INSTITUTE OF MANAGEMENT STUDIES MAHAVIDYALAYA WARUD,0132110110,BCA,State Level,CAP,1322,0.0
+1321,INSTITUTE OF MANAGEMENT STUDIES MAHAVIDYALAYA WARUD,0132110110,BCA,State Level,III,0,0.0
+1321,INSTITUTE OF MANAGEMENT STUDIES MAHAVIDYALAYA WARUD,0132110110,BCA,State Level,BCA,0,0.0
+1321,INSTITUTE OF MANAGEMENT STUDIES MAHAVIDYALAYA WARUD,0132110110,BCA,State Level,MCA,0,0.0
+1322,SMT.MAHERBANU COLLEGE OF SCIENCE AND COMMERCE,0132210110,BCA,State Level,CAP,1324,0.0
+1322,SMT.MAHERBANU COLLEGE OF SCIENCE AND COMMERCE,0132210110,BCA,State Level,III,0,0.0
+1322,SMT.MAHERBANU COLLEGE OF SCIENCE AND COMMERCE,0132210110,BCA,State Level,BCA,0,0.0
+1322,SMT.MAHERBANU COLLEGE OF SCIENCE AND COMMERCE,0132210110,BCA,State Level,MCA,0,0.0
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,11972,73.4473058
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,12402,72.6650332
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,22168,50.364279
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,12436,72.6650332
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,State Level,EWS,25310,42.2275121
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,State Level,TFWS,12109,73.4473058
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,State Level,CAP,1327,0.0
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,State Level,III,0,0.0
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,State Level,BCA,0,0.0
+1324,SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI,0132410110,BCA,State Level,MCA,0,0.0
+1327,BRIJLAL BIYANI SCIENCE COLLEGE,0132710110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,16683,62.756979
+1327,BRIJLAL BIYANI SCIENCE COLLEGE,0132710110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,15918,64.8962237
+1327,BRIJLAL BIYANI SCIENCE COLLEGE,0132710110,BCA,State Level,CAP,1329,0.0
+1327,BRIJLAL BIYANI SCIENCE COLLEGE,0132710110,BCA,State Level,III,0,0.0
+1327,BRIJLAL BIYANI SCIENCE COLLEGE,0132710110,BCA,State Level,BCA,0,0.0
+1327,BRIJLAL BIYANI SCIENCE COLLEGE,0132710110,BCA,State Level,MCA,0,0.0
+1329,ADARSHA SCIENCE JAIRAMDAS BHAGCHAND ARTS AND BIRLA COMMERCE MAHAVIDYALAYA DHAMANGAON,0132910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,38449,9.4403893
+1329,ADARSHA SCIENCE JAIRAMDAS BHAGCHAND ARTS AND BIRLA COMMERCE MAHAVIDYALAYA DHAMANGAON,0132910110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,29448,32.4805419
+1329,ADARSHA SCIENCE JAIRAMDAS BHAGCHAND ARTS AND BIRLA COMMERCE MAHAVIDYALAYA DHAMANGAON,0132910110,BCA,State Level,CAP,1330,0.0
+1329,ADARSHA SCIENCE JAIRAMDAS BHAGCHAND ARTS AND BIRLA COMMERCE MAHAVIDYALAYA DHAMANGAON,0132910110,BCA,State Level,III,0,0.0
+1329,ADARSHA SCIENCE JAIRAMDAS BHAGCHAND ARTS AND BIRLA COMMERCE MAHAVIDYALAYA DHAMANGAON,0132910110,BCA,State Level,BCA,0,0.0
+1329,ADARSHA SCIENCE JAIRAMDAS BHAGCHAND ARTS AND BIRLA COMMERCE MAHAVIDYALAYA DHAMANGAON,0132910110,BCA,State Level,MCA,0,0.0
+1330,BHARAT RATNA DR APJ ABDUL KALAM COLLEGE FOR UG AND PG COURSES WITH MILLENIUM SKILLS INNOVATION INCUBATION AND RESEARCH RAHATGAON AMRAVATI,0133010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,40816,1.6791583
+1330,BHARAT RATNA DR APJ ABDUL KALAM COLLEGE FOR UG AND PG COURSES WITH MILLENIUM SKILLS INNOVATION INCUBATION AND RESEARCH RAHATGAON AMRAVATI,0133010110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,31874,26.246757
+1330,BHARAT RATNA DR APJ ABDUL KALAM COLLEGE FOR UG AND PG COURSES WITH MILLENIUM SKILLS INNOVATION INCUBATION AND RESEARCH RAHATGAON AMRAVATI,0133010110,BCA,State Level,CAP,1333,0.0
+1330,BHARAT RATNA DR APJ ABDUL KALAM COLLEGE FOR UG AND PG COURSES WITH MILLENIUM SKILLS INNOVATION INCUBATION AND RESEARCH RAHATGAON AMRAVATI,0133010110,BCA,State Level,III,0,0.0
+1330,BHARAT RATNA DR APJ ABDUL KALAM COLLEGE FOR UG AND PG COURSES WITH MILLENIUM SKILLS INNOVATION INCUBATION AND RESEARCH RAHATGAON AMRAVATI,0133010110,BCA,State Level,BCA,0,0.0
+1330,BHARAT RATNA DR APJ ABDUL KALAM COLLEGE FOR UG AND PG COURSES WITH MILLENIUM SKILLS INNOVATION INCUBATION AND RESEARCH RAHATGAON AMRAVATI,0133010110,BCA,State Level,MCA,0,0.0
+1333,SHRI KANIFNATH SCIENCE COLLEGE KARANJA KHERDA,0133310310,Bachelor of Computer Application (BCA),State Level,CAP,1334,0.0
+1333,SHRI KANIFNATH SCIENCE COLLEGE KARANJA KHERDA,0133310310,Bachelor of Computer Application (BCA),State Level,III,0,0.0
+1333,SHRI KANIFNATH SCIENCE COLLEGE KARANJA KHERDA,0133310310,Bachelor of Computer Application (BCA),State Level,BCA,0,0.0
+1333,SHRI KANIFNATH SCIENCE COLLEGE KARANJA KHERDA,0133310310,Bachelor of Computer Application (BCA),State Level,MCA,0,0.0
+1334,TAKSHASHILA MAHAVIDYALAYA,0133410110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,40780,1.8561001
+1334,TAKSHASHILA MAHAVIDYALAYA,0133410110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,37202,12.0889816
+1334,TAKSHASHILA MAHAVIDYALAYA,0133410110,BCA,State Level,CAP,1340,0.0
+1334,TAKSHASHILA MAHAVIDYALAYA,0133410110,BCA,State Level,III,0,0.0
+1334,TAKSHASHILA MAHAVIDYALAYA,0133410110,BCA,State Level,BCA,0,0.0
+1334,TAKSHASHILA MAHAVIDYALAYA,0133410110,BCA,State Level,MCA,0,0.0
+1340,LATE NARAYANRAO AMRUTRAO DESHMUKH ARTS AND COMMERCE COLLEGE,0134010110,BCA,State Level,CAP,2001,0.0
+1340,LATE NARAYANRAO AMRUTRAO DESHMUKH ARTS AND COMMERCE COLLEGE,0134010110,BCA,State Level,III,0,0.0
+1340,LATE NARAYANRAO AMRUTRAO DESHMUKH ARTS AND COMMERCE COLLEGE,0134010110,BCA,State Level,BCA,0,0.0
+1340,LATE NARAYANRAO AMRUTRAO DESHMUKH ARTS AND COMMERCE COLLEGE,0134010110,BCA,State Level,MCA,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,25839,41.8908585
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,Home University Seats Allotted to Home University Candidates,GNTAH,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCH,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,Home University Seats Allotted to Home University Candidates,LSTH,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,State Level,CAP,2036,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,State Level,III,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,State Level,BCA,0,0.0
+2001,"Dr. B. A. M.University Dept. Of Management Science, Aurangabad",0200110110,BCA,State Level,MCA,0,0.0
+2036,SCHOOL OF COMPUTATIONAL SCIENCES,0203610110,BCA,State Level,CAP,2113,0.0
+2036,SCHOOL OF COMPUTATIONAL SCIENCES,0203610110,BCA,State Level,III,0,0.0
+2036,SCHOOL OF COMPUTATIONAL SCIENCES,0203610110,BCA,State Level,BCA,0,0.0
+2036,SCHOOL OF COMPUTATIONAL SCIENCES,0203610110,BCA,State Level,MCA,0,0.0
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,GOPENS,31008,28.717414
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,LSCS,13020,71.4203275
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,LNTAS,0,0.0
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,CAP,2119,0.0
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,III,0,0.0
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,BCA,0,0.0
+2113,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",0211310110,BCA,State Level,MCA,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,23226,47.7094195
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,34492,19.9409052
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,26878,38.8321168
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,LNTBH,39571,5.792397
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,10795,75.9910803
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSCO,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,GSCO,29227,32.8322686
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,GSTO,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,Home University Seats Allotted to Home University Candidates,LSTO,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,State Level,CAP,2508,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,State Level,III,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,State Level,BCA,0,0.0
+2119,"Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",0211910110,BCA,State Level,MCA,0,0.0
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,0250810110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,34405,19.9409052
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,0250810110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,31739,27.6263627
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,0250810110,BCA,State Level,CAP,2635,0.0
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,0250810110,BCA,State Level,III,0,0.0
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,0250810110,BCA,State Level,BCA,0,0.0
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,0250810110,BCA,State Level,MCA,0,0.0
+2635,"Shri. Sambhaji College of Management & Technology, Degaon Road, Opp. Nadla Digras, Khadkut, Nanded",0263510110,BCA,State Level,CAP,2664,0.0
+2635,"Shri. Sambhaji College of Management & Technology, Degaon Road, Opp. Nadla Digras, Khadkut, Nanded",0263510110,BCA,State Level,III,0,0.0
+2635,"Shri. Sambhaji College of Management & Technology, Degaon Road, Opp. Nadla Digras, Khadkut, Nanded",0263510110,BCA,State Level,BCA,0,0.0
+2635,"Shri. Sambhaji College of Management & Technology, Degaon Road, Opp. Nadla Digras, Khadkut, Nanded",0263510110,BCA,State Level,MCA,0,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,GOBCS,13280,70.7840876
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,LOPENS,20020,55.5419429
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,LSTS,0,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,LSEBCS,0,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,PWDOPENS,0,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,PWD,81,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,DEF,4181439,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,CAP,2667,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,III,0,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,BCA,0,0.0
+2664,"Deogiri College, Chh. Sambhaji Nagar",0266410110,BCA,State Level,MCA,0,0.0
+2692,COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0269210110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,29869,32.3044838
+2692,COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0269210110,BCA,Home University Seats Allotted to Home University Candidates,LOBCH,30273,30.9528962
+2692,COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0269210110,BCA,State Level,CAP,2695,0.0
+2692,COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0269210110,BCA,State Level,III,0,0.0
+2692,COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0269210110,BCA,State Level,BCA,0,0.0
+2692,COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0269210110,BCA,State Level,MCA,0,0.0
+2695,"MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO ,CHHATRAPATI SAMBHAJINAGAR",0269510110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,36593,14.2898363
+2695,"MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO ,CHHATRAPATI SAMBHAJINAGAR",0269510110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+2695,"MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO ,CHHATRAPATI SAMBHAJINAGAR",0269510110,BCA,State Level,CAP,2696,0.0
+2695,"MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO ,CHHATRAPATI SAMBHAJINAGAR",0269510110,BCA,State Level,III,0,0.0
+2695,"MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO ,CHHATRAPATI SAMBHAJINAGAR",0269510110,BCA,State Level,BCA,0,0.0
+2695,"MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO ,CHHATRAPATI SAMBHAJINAGAR",0269510110,BCA,State Level,MCA,0,0.0
+2696,SHREEYASH INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH,0269610110,BCA,State Level,CAP,2704,0.0
+2696,SHREEYASH INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH,0269610110,BCA,State Level,III,0,0.0
+2696,SHREEYASH INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH,0269610110,BCA,State Level,BCA,0,0.0
+2696,SHREEYASH INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH,0269610110,BCA,State Level,MCA,0,0.0
+2704,HITECH COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE,0270410110,BCA,State Level,CAP,2705,0.0
+2704,HITECH COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE,0270410110,BCA,State Level,III,0,0.0
+2704,HITECH COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE,0270410110,BCA,State Level,BCA,0,0.0
+2704,HITECH COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE,0270410110,BCA,State Level,MCA,0,0.0
+2705,VSS COLLEGE,0270510110,BCA,State Level,CAP,2735,0.0
+2705,VSS COLLEGE,0270510110,BCA,State Level,III,0,0.0
+2705,VSS COLLEGE,0270510110,BCA,State Level,BCA,0,0.0
+2705,VSS COLLEGE,0270510110,BCA,State Level,MCA,0,0.0
+2735,RAJIV GANDHI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT,0273510110,BCA,State Level,CAP,2736,0.0
+2735,RAJIV GANDHI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT,0273510110,BCA,State Level,III,0,0.0
+2735,RAJIV GANDHI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT,0273510110,BCA,State Level,BCA,0,0.0
+2735,RAJIV GANDHI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT,0273510110,BCA,State Level,MCA,0,0.0
+2736,MGMS COLLEGE OF COMPUTER SCIENCE AND IT,0273610110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,5795,87.5135252
+2736,MGMS COLLEGE OF COMPUTER SCIENCE AND IT,0273610110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,0,0.0
+2736,MGMS COLLEGE OF COMPUTER SCIENCE AND IT,0273610110,BCA,State Level,CAP,2737,0.0
+2736,MGMS COLLEGE OF COMPUTER SCIENCE AND IT,0273610110,BCA,State Level,III,0,0.0
+2736,MGMS COLLEGE OF COMPUTER SCIENCE AND IT,0273610110,BCA,State Level,BCA,0,0.0
+2736,MGMS COLLEGE OF COMPUTER SCIENCE AND IT,0273610110,BCA,State Level,MCA,0,0.0
+2737,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273710110,BCA,State Level,CAP,2738,0.0
+2737,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273710110,BCA,State Level,III,0,0.0
+2737,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273710110,BCA,State Level,BCA,0,0.0
+2737,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273710110,BCA,State Level,MCA,0,0.0
+2738,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273810110,BCA,State Level,CAP,2739,0.0
+2738,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273810110,BCA,State Level,III,0,0.0
+2738,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273810110,BCA,State Level,BCA,0,0.0
+2738,MODERN COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,0273810110,BCA,State Level,MCA,0,0.0
+2739,TULSI COLLEGE OF COMPUTER SCIENCE AND I T BEED,0273910110,BCA,Home University Seats Allotted to Home University Candidates,GNTDH,31895,26.246757
+2739,TULSI COLLEGE OF COMPUTER SCIENCE AND I T BEED,0273910110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+2739,TULSI COLLEGE OF COMPUTER SCIENCE AND I T BEED,0273910110,BCA,State Level,CAP,3176,0.0
+2739,TULSI COLLEGE OF COMPUTER SCIENCE AND I T BEED,0273910110,BCA,State Level,III,0,0.0
+2739,TULSI COLLEGE OF COMPUTER SCIENCE AND I T BEED,0273910110,BCA,State Level,BCA,0,0.0
+2739,TULSI COLLEGE OF COMPUTER SCIENCE AND I T BEED,0273910110,BCA,State Level,MCA,0,0.0
+3176,"Thakur College of Engineering and Technology, Kandivali, Mumbai",0317610110,BCA,State Level,CAP,3554,0.0
+3176,"Thakur College of Engineering and Technology, Kandivali, Mumbai",0317610110,BCA,State Level,III,0,0.0
+3176,"Thakur College of Engineering and Technology, Kandivali, Mumbai",0317610110,BCA,State Level,BCA,0,0.0
+3176,"Thakur College of Engineering and Technology, Kandivali, Mumbai",0317610110,BCA,State Level,MCA,0,0.0
+3563,PILLAI COLLEGE OF ARTS COMMERCE & SCIENCE,0356310170,BCA,State Level,CAP,3575,0.0
+3563,PILLAI COLLEGE OF ARTS COMMERCE & SCIENCE,0356310170,BCA,State Level,III,0,0.0
+3563,PILLAI COLLEGE OF ARTS COMMERCE & SCIENCE,0356310170,BCA,State Level,BCA,0,0.0
+3563,PILLAI COLLEGE OF ARTS COMMERCE & SCIENCE,0356310170,BCA,State Level,MCA,0,0.0
+3615,BAKLIWAL FOUNDATION,0361510110,BCA,State Level,CAP,3616,0.0
+3615,BAKLIWAL FOUNDATION,0361510110,BCA,State Level,III,0,0.0
+3615,BAKLIWAL FOUNDATION,0361510110,BCA,State Level,BCA,0,0.0
+3615,BAKLIWAL FOUNDATION,0361510110,BCA,State Level,MCA,0,0.0
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,GOPENS,18687,58.1299965
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,LOPENS,15438,65.9407176
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,TFWS,11870,73.7851929
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,CAP,3709,0.0
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,III,0,0.0
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,BCA,0,0.0
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,0365110110,BCA,State Level,MCA,0,0.0
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,6651,85.6037441
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,24135,45.0394589
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENO,15116,66.6666667
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,Home University Seats Allotted to Home University Candidates,LOBCO,0,0.0
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,State Level,CAP,3713,0.0
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,State Level,III,0,0.0
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,State Level,BCA,0,0.0
+3709,SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE,0370910110,BCA,State Level,MCA,0,0.0
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),Home University Seats Allotted to Home University Candidates,GOPENH,39793,5.3945082
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),Home University Seats Allotted to Home University Candidates,LOPENH,12828,71.4203275
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),Home University Seats Allotted to Home University Candidates,PWDOPENH,40747,1.8561001
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),State Level,CAP,4018,0.0
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),State Level,III,0,0.0
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),State Level,BCA,0,0.0
+3713,"Konkan Ratna Kala Mahavidyalaya, Bharane",0371310310,Bachelor of Computer Application (BCA),State Level,MCA,0,0.0
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,33904,21.9325686
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,Home University Seats Allotted to Home University Candidates,LSCH,38829,7.7183871
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,Home University Seats Allotted to Home University Candidates,LOBCH,30415,30.9528962
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,State Level,CAP,4138,0.0
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,State Level,III,0,0.0
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,State Level,BCA,0,0.0
+4124,"Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",0412410110,BCA,State Level,MCA,0,0.0
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",0413810110,BCA,State Level,CAP,4142,0.0
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",0413810110,BCA,State Level,III,0,0.0
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",0413810110,BCA,State Level,BCA,0,0.0
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur",0413810110,BCA,State Level,MCA,0,0.0
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,GOPENS,41050,0.8133472
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,LOPENS,38530,9.4403893
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,TFWS,32108,26.246757
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,CAP,4147,0.0
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,III,0,0.0
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,BCA,0,0.0
+4142,"G H Raisoni College of Engineering & Management, Nagpur",0414210110,BCA,State Level,MCA,0,0.0
+4147,"K.D.K. College of Engineering, Nagpur",0414710110,BCA,State Level,GOBCS,33294,23.0758144
+4147,"K.D.K. College of Engineering, Nagpur",0414710110,BCA,State Level,LOPENS,38385,9.4403893
+4147,"K.D.K. College of Engineering, Nagpur",0414710110,BCA,State Level,CAP,4152,0.0
+4147,"K.D.K. College of Engineering, Nagpur",0414710110,BCA,State Level,III,0,0.0
+4147,"K.D.K. College of Engineering, Nagpur",0414710110,BCA,State Level,BCA,0,0.0
+4147,"K.D.K. College of Engineering, Nagpur",0414710110,BCA,State Level,MCA,0,0.0
+4152,"Shri Shivaji Education Society Amravati's Science College (MCA), Nagpur",0415210110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,14514,68.2168926
+4152,"Shri Shivaji Education Society Amravati's Science College (MCA), Nagpur",0415210110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCH,0,0.0
+4152,"Shri Shivaji Education Society Amravati's Science College (MCA), Nagpur",0415210110,BCA,State Level,CAP,4153,0.0
+4152,"Shri Shivaji Education Society Amravati's Science College (MCA), Nagpur",0415210110,BCA,State Level,III,0,0.0
+4152,"Shri Shivaji Education Society Amravati's Science College (MCA), Nagpur",0415210110,BCA,State Level,BCA,0,0.0
+4152,"Shri Shivaji Education Society Amravati's Science College (MCA), Nagpur",0415210110,BCA,State Level,MCA,0,0.0
+4153,"Sarvodaya Shikshan Mandal's Sardar Patel Mahavidayalaya, Dept. of Computer Studies & Research, Chandrapur",0415310110,BCA,State Level,CAP,4700,0.0
+4153,"Sarvodaya Shikshan Mandal's Sardar Patel Mahavidayalaya, Dept. of Computer Studies & Research, Chandrapur",0415310110,BCA,State Level,III,0,0.0
+4153,"Sarvodaya Shikshan Mandal's Sardar Patel Mahavidayalaya, Dept. of Computer Studies & Research, Chandrapur",0415310110,BCA,State Level,BCA,0,0.0
+4153,"Sarvodaya Shikshan Mandal's Sardar Patel Mahavidayalaya, Dept. of Computer Studies & Research, Chandrapur",0415310110,BCA,State Level,MCA,0,0.0
+4700,"Tulaskar Institute of Science and Technology, Hinganghat, Wardha",0470010110,BCA,State Level,CAP,4704,0.0
+4700,"Tulaskar Institute of Science and Technology, Hinganghat, Wardha",0470010110,BCA,State Level,III,0,0.0
+4700,"Tulaskar Institute of Science and Technology, Hinganghat, Wardha",0470010110,BCA,State Level,BCA,0,0.0
+4700,"Tulaskar Institute of Science and Technology, Hinganghat, Wardha",0470010110,BCA,State Level,MCA,0,0.0
+4705,"DR AMBEDKAR COLLEGE, NAGPUR",0470510170,BCA,Home University Seats Allotted to Home University Candidates,GNTCH,3989,0.0
+4705,"DR AMBEDKAR COLLEGE, NAGPUR",0470510170,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+4705,"DR AMBEDKAR COLLEGE, NAGPUR",0470510170,BCA,State Level,CAP,4706,0.0
+4705,"DR AMBEDKAR COLLEGE, NAGPUR",0470510170,BCA,State Level,III,0,0.0
+4705,"DR AMBEDKAR COLLEGE, NAGPUR",0470510170,BCA,State Level,BCA,0,0.0
+4705,"DR AMBEDKAR COLLEGE, NAGPUR",0470510170,BCA,State Level,MCA,0,0.0
+4719,"ST. FRANCIS DE SALES COLLEGE, NAGPUR",0471910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,32573,25.2763295
+4719,"ST. FRANCIS DE SALES COLLEGE, NAGPUR",0471910110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,26630,39.508043
+4719,"ST. FRANCIS DE SALES COLLEGE, NAGPUR",0471910110,BCA,State Level,CAP,4725,0.0
+4719,"ST. FRANCIS DE SALES COLLEGE, NAGPUR",0471910110,BCA,State Level,III,0,0.0
+4719,"ST. FRANCIS DE SALES COLLEGE, NAGPUR",0471910110,BCA,State Level,BCA,0,0.0
+4719,"ST. FRANCIS DE SALES COLLEGE, NAGPUR",0471910110,BCA,State Level,MCA,0,0.0
+4725,"DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",0472510110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,37642,11.9093991
+4725,"DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",0472510110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,40882,1.601385
+4725,"DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",0472510110,BCA,State Level,CAP,4735,0.0
+4725,"DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",0472510110,BCA,State Level,III,0,0.0
+4725,"DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",0472510110,BCA,State Level,BCA,0,0.0
+4725,"DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",0472510110,BCA,State Level,MCA,0,0.0
+4735,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE NAGPUR,0473510110,BCA,State Level,CAP,4739,0.0
+4735,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE NAGPUR,0473510110,BCA,State Level,III,0,0.0
+4735,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE NAGPUR,0473510110,BCA,State Level,BCA,0,0.0
+4735,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE NAGPUR,0473510110,BCA,State Level,MCA,0,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,26060,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,Home University Seats Allotted to Home University Candidates,GNTAH,0,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,Home University Seats Allotted to Home University Candidates,GNTCH,0,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,Home University Seats Allotted to Home University Candidates,GSCO,37829,11.525741
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,Home University Seats Allotted to Home University Candidates,GOBCO,16697,62.756979
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,State Level,CAP,4741,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,State Level,III,0,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,State Level,BCA,0,0.0
+4739,"CITY PREMIER COLLEGE, NAGPUR",0473910110,BCA,State Level,MCA,0,0.0
+5017,SHRI KAKASAHEB HEERALAL MAGANLAL CHAUDHARI ARTS COMMERCE AND SCIENCE COLLEGE,0501710110,BCA,State Level,CAP,5101,0.0
+5017,SHRI KAKASAHEB HEERALAL MAGANLAL CHAUDHARI ARTS COMMERCE AND SCIENCE COLLEGE,0501710110,BCA,State Level,III,0,0.0
+5017,SHRI KAKASAHEB HEERALAL MAGANLAL CHAUDHARI ARTS COMMERCE AND SCIENCE COLLEGE,0501710110,BCA,State Level,BCA,0,0.0
+5017,SHRI KAKASAHEB HEERALAL MAGANLAL CHAUDHARI ARTS COMMERCE AND SCIENCE COLLEGE,0501710110,BCA,State Level,MCA,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),Unknown,MASTER,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),Unknown,COMPUTER,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,GSTS,31019,28.717414
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,GNTDS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,GSEBCS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,LSCS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,LNTCS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,LSEBCS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,PWDOPENS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,TFWS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,PWD,29,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,DEF,2735659,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,CAP,5101,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,III,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,BCA,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510100110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,MCA,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,GOPENS,18827,57.96339
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,GSTS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,GNTAS,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,CAP,5102,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,III,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,BCA,0,0.0
+5101,"Khandesh College Education Society's Institute of Management & Research, Jalgaon",0510110110,BCA,State Level,MCA,0,0.0
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,39450,5.794177
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,39802,5.3801829
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,State Level,EWS,38272,9.649755
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,State Level,TFWS,40151,3.8095238
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,State Level,CAP,5112,0.0
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,State Level,III,0,0.0
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,State Level,BCA,0,0.0
+5102,"Godavari Institute of Management & Research, Jalgaon",0510210110,BCA,State Level,MCA,0,0.0
+5112,"Padmashree Dr. Vithalrao Vikhe Patil Foundation's Institute of Business Management & Rural Development, Ahmednagar",0511210110,BCA,State Level,CAP,5120,0.0
+5112,"Padmashree Dr. Vithalrao Vikhe Patil Foundation's Institute of Business Management & Rural Development, Ahmednagar",0511210110,BCA,State Level,III,0,0.0
+5112,"Padmashree Dr. Vithalrao Vikhe Patil Foundation's Institute of Business Management & Rural Development, Ahmednagar",0511210110,BCA,State Level,BCA,0,0.0
+5112,"Padmashree Dr. Vithalrao Vikhe Patil Foundation's Institute of Business Management & Rural Development, Ahmednagar",0511210110,BCA,State Level,MCA,0,0.0
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,28460,35.7307581
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,30781,29.2735659
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,State Level,CAP,5150,0.0
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,State Level,III,0,0.0
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,State Level,BCA,0,0.0
+5120,"MET's Institute of Management, Adgaon, Nashik",0512010110,BCA,State Level,MCA,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515000110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),Unknown,MASTER,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515000110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),Unknown,COMPUTER,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515000110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,CAP,5150,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515000110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,III,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515000110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,BCA,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515000110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,MCA,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515010110,BCA,State Level,CAP,5152,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515010110,BCA,State Level,III,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515010110,BCA,State Level,BCA,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",0515010110,BCA,State Level,MCA,0,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210110,BCA,State Level,GOPENS,19067,57.9095434
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210110,BCA,State Level,TFWS,26864,38.8321168
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210110,BCA,State Level,CAP,5152,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210110,BCA,State Level,III,0,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210110,BCA,State Level,BCA,0,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210110,BCA,State Level,MCA,0,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210210,B.C.A. (Visual Arts),State Level,CAP,5169,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210210,B.C.A. (Visual Arts),State Level,III,0,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210210,B.C.A. (Visual Arts),State Level,BCA,0,0.0
+5152,"G H Raisoni College of Engineering and Management, Jalgaon",0515210210,B.C.A. (Visual Arts),State Level,MCA,0,0.0
+5169,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",0516910110,BCA,State Level,CAP,5331,0.0
+5169,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",0516910110,BCA,State Level,III,0,0.0
+5169,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",0516910110,BCA,State Level,BCA,0,0.0
+5169,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",0516910110,BCA,State Level,MCA,0,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,25620,41.8908585
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,28312,35.7307581
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,Home University Seats Allotted to Home University Candidates,LSCH,0,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GNTBO,39279,7.1419722
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,30769,29.2735659
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,State Level,CAP,5546,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,State Level,III,0,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,State Level,BCA,0,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",0533110110,BCA,State Level,MCA,0,0.0
+5592,SYSTEL TECHNICAL EDUCATION SOCIETYS SYSTEL INSTITUTE OF MANAGEMENT AND RESEARCH,0559210110,BCA,State Level,CAP,5594,0.0
+5592,SYSTEL TECHNICAL EDUCATION SOCIETYS SYSTEL INSTITUTE OF MANAGEMENT AND RESEARCH,0559210110,BCA,State Level,III,0,0.0
+5592,SYSTEL TECHNICAL EDUCATION SOCIETYS SYSTEL INSTITUTE OF MANAGEMENT AND RESEARCH,0559210110,BCA,State Level,BCA,0,0.0
+5592,SYSTEL TECHNICAL EDUCATION SOCIETYS SYSTEL INSTITUTE OF MANAGEMENT AND RESEARCH,0559210110,BCA,State Level,MCA,0,0.0
+5594,SHAHADA TALUKA EDUCATIONAL SOCIETY AND COOP. EDUCATIONAL SOCIETY LTD. INSTITUTE OF MANAGEMENT RESEARCH AND DEVELOPMENT SHAHADA,0559410110,BCA,State Level,CAP,5596,0.0
+5594,SHAHADA TALUKA EDUCATIONAL SOCIETY AND COOP. EDUCATIONAL SOCIETY LTD. INSTITUTE OF MANAGEMENT RESEARCH AND DEVELOPMENT SHAHADA,0559410110,BCA,State Level,III,0,0.0
+5594,SHAHADA TALUKA EDUCATIONAL SOCIETY AND COOP. EDUCATIONAL SOCIETY LTD. INSTITUTE OF MANAGEMENT RESEARCH AND DEVELOPMENT SHAHADA,0559410110,BCA,State Level,BCA,0,0.0
+5594,SHAHADA TALUKA EDUCATIONAL SOCIETY AND COOP. EDUCATIONAL SOCIETY LTD. INSTITUTE OF MANAGEMENT RESEARCH AND DEVELOPMENT SHAHADA,0559410110,BCA,State Level,MCA,0,0.0
+5596,MATOSHRI EDUCATION SOCIETY,0559610110,BCA,State Level,CAP,5602,0.0
+5596,MATOSHRI EDUCATION SOCIETY,0559610110,BCA,State Level,III,0,0.0
+5596,MATOSHRI EDUCATION SOCIETY,0559610110,BCA,State Level,BCA,0,0.0
+5596,MATOSHRI EDUCATION SOCIETY,0559610110,BCA,State Level,MCA,0,0.0
+5602,SS AND SS'S VIDYADHAN COLLEGE VALWADI DHULE,0560210110,BCA,State Level,CAP,5603,0.0
+5602,SS AND SS'S VIDYADHAN COLLEGE VALWADI DHULE,0560210110,BCA,State Level,III,0,0.0
+5602,SS AND SS'S VIDYADHAN COLLEGE VALWADI DHULE,0560210110,BCA,State Level,BCA,0,0.0
+5602,SS AND SS'S VIDYADHAN COLLEGE VALWADI DHULE,0560210110,BCA,State Level,MCA,0,0.0
+5603,KRIDA RASIK EDUCATION SOCIETY INSTITUTE OF MANAGEMENT AND RESEARCH JALGAON SANCHALIT ADV SITARAM BABANBHAU ANANDRAMJI BAHETI ARTS COMMERCE AND SCIENCE COLLEGE JALGAON,0560310110,BCA,State Level,CAP,5614,0.0
+5603,KRIDA RASIK EDUCATION SOCIETY INSTITUTE OF MANAGEMENT AND RESEARCH JALGAON SANCHALIT ADV SITARAM BABANBHAU ANANDRAMJI BAHETI ARTS COMMERCE AND SCIENCE COLLEGE JALGAON,0560310110,BCA,State Level,III,0,0.0
+5603,KRIDA RASIK EDUCATION SOCIETY INSTITUTE OF MANAGEMENT AND RESEARCH JALGAON SANCHALIT ADV SITARAM BABANBHAU ANANDRAMJI BAHETI ARTS COMMERCE AND SCIENCE COLLEGE JALGAON,0560310110,BCA,State Level,BCA,0,0.0
+5603,KRIDA RASIK EDUCATION SOCIETY INSTITUTE OF MANAGEMENT AND RESEARCH JALGAON SANCHALIT ADV SITARAM BABANBHAU ANANDRAMJI BAHETI ARTS COMMERCE AND SCIENCE COLLEGE JALGAON,0560310110,BCA,State Level,MCA,0,0.0
+5614,MATOSHRI ARTS SCIENCE AND COMPUTER SCIENCE,0561410110,BCA,State Level,CAP,5615,0.0
+5614,MATOSHRI ARTS SCIENCE AND COMPUTER SCIENCE,0561410110,BCA,State Level,III,0,0.0
+5614,MATOSHRI ARTS SCIENCE AND COMPUTER SCIENCE,0561410110,BCA,State Level,BCA,0,0.0
+5614,MATOSHRI ARTS SCIENCE AND COMPUTER SCIENCE,0561410110,BCA,State Level,MCA,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,24201,44.9181274
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,35583,17.1807437
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,GNTDH,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCH,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,LSCH,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,LNTBH,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,State Level,CAP,5620,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,State Level,III,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,State Level,BCA,0,0.0
+5615,SSBTS ARTS COMMERCE AND SCIENCE COLLEGE,0561510110,BCA,State Level,MCA,0,0.0
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,26713,39.508043
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,30229,30.9528962
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,36506,14.2898363
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,0,0.0
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSEBCO,29780,32.3044838
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOBCO,0,0.0
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,State Level,CAP,5621,0.0
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,State Level,III,0,0.0
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,State Level,BCA,0,0.0
+5620,KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK,0562010110,BCA,State Level,MCA,0,0.0
+5621,MARATHA VIDYA PRASARAK SAMAJ'S S V K T ARTS SCIENCE AND COMMERCE COLLEGE,0562110110,BCA,State Level,CAP,5634,0.0
+5621,MARATHA VIDYA PRASARAK SAMAJ'S S V K T ARTS SCIENCE AND COMMERCE COLLEGE,0562110110,BCA,State Level,III,0,0.0
+5621,MARATHA VIDYA PRASARAK SAMAJ'S S V K T ARTS SCIENCE AND COMMERCE COLLEGE,0562110110,BCA,State Level,BCA,0,0.0
+5621,MARATHA VIDYA PRASARAK SAMAJ'S S V K T ARTS SCIENCE AND COMMERCE COLLEGE,0562110110,BCA,State Level,MCA,0,0.0
+5634,SNJB K K H A ARTS SMGL COMMERCE AND SPHJ SCIENCE COLLEGE CHANDWAD,0563410110,BCA,State Level,CAP,5637,0.0
+5634,SNJB K K H A ARTS SMGL COMMERCE AND SPHJ SCIENCE COLLEGE CHANDWAD,0563410110,BCA,State Level,III,0,0.0
+5634,SNJB K K H A ARTS SMGL COMMERCE AND SPHJ SCIENCE COLLEGE CHANDWAD,0563410110,BCA,State Level,BCA,0,0.0
+5634,SNJB K K H A ARTS SMGL COMMERCE AND SPHJ SCIENCE COLLEGE CHANDWAD,0563410110,BCA,State Level,MCA,0,0.0
+5637,VISHWALATA ARTS COMMERCE AND SCIENCE COLLEGE,0563710110,BCA,State Level,CAP,5638,0.0
+5637,VISHWALATA ARTS COMMERCE AND SCIENCE COLLEGE,0563710110,BCA,State Level,III,0,0.0
+5637,VISHWALATA ARTS COMMERCE AND SCIENCE COLLEGE,0563710110,BCA,State Level,BCA,0,0.0
+5637,VISHWALATA ARTS COMMERCE AND SCIENCE COLLEGE,0563710110,BCA,State Level,MCA,0,0.0
+5638,MODERN COLLEGE OF BCA SONAI,0563810110,BCA,State Level,CAP,5640,0.0
+5638,MODERN COLLEGE OF BCA SONAI,0563810110,BCA,State Level,III,0,0.0
+5638,MODERN COLLEGE OF BCA SONAI,0563810110,BCA,State Level,BCA,0,0.0
+5638,MODERN COLLEGE OF BCA SONAI,0563810110,BCA,State Level,MCA,0,0.0
+5640,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE KAKASAHEBNAGAR,0564010110,BCA,State Level,CAP,5641,0.0
+5640,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE KAKASAHEBNAGAR,0564010110,BCA,State Level,III,0,0.0
+5640,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE KAKASAHEBNAGAR,0564010110,BCA,State Level,BCA,0,0.0
+5640,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE KAKASAHEBNAGAR,0564010110,BCA,State Level,MCA,0,0.0
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,11122,75.6546202
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSEBCO,0,0.0
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSEBCO,0,0.0
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,State Level,CAP,5650,0.0
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,State Level,III,0,0.0
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,State Level,BCA,0,0.0
+5641,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0564110110,BCA,State Level,MCA,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,22732,49.1482059
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,25641,41.8908585
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,Home University Seats Allotted to Home University Candidates,GNTAH,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,Home University Seats Allotted to Home University Candidates,LSTH,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,State Level,CAP,6038,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,State Level,III,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,State Level,BCA,0,0.0
+5650,K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK,0565010110,BCA,State Level,MCA,0,0.0
+6038,SHIVAJI UNIVERSITY KOLHAPUR,0603810110,BCA,State Level,CAP,6122,0.0
+6038,SHIVAJI UNIVERSITY KOLHAPUR,0603810110,BCA,State Level,III,0,0.0
+6038,SHIVAJI UNIVERSITY KOLHAPUR,0603810110,BCA,State Level,BCA,0,0.0
+6038,SHIVAJI UNIVERSITY KOLHAPUR,0603810110,BCA,State Level,MCA,0,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,27304,38.6350533
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,27399,38.6350533
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Home University Seats Allotted to Home University Candidates,LOBCH,0,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,25869,41.8173935
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOBCO,31543,27.908822
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,32797,24.8791748
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,State Level,DEFOPENS,18365,59.276131
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,State Level,TFWS,0,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,State Level,CAP,6129,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,State Level,III,411033,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,State Level,BCA,0,0.0
+6122,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",0612210110,BCA,State Level,MCA,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,18062,60.2695301
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,33573,22.3111881
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Home University Seats Allotted to Home University Candidates,GNTCH,24186,44.9181274
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Home University Seats Allotted to Home University Candidates,LSTH,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,11162,75.6546202
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSCO,19937,55.5940273
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSTO,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSTO,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,State Level,DEFOPENS,8027,82.4156818
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,State Level,TFWS,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,State Level,CAP,6137,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,State Level,III,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,State Level,BCA,0,0.0
+6129,"Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies, Tathawade Pune-411033",0612910110,BCA,State Level,MCA,0,0.0
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,Home University Seats Allotted to Home University Candidates,GNTCH,38571,9.3666147
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,Home University Seats Allotted to Home University Candidates,LSCH,0,0.0
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,4733,90.0093775
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSCO,33597,22.3111881
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,21503,52.204685
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,State Level,EWS,22347,50.0288268
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,State Level,TFWS,12426,72.6650332
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,State Level,CAP,6138,0.0
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,State Level,III,0,0.0
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,State Level,BCA,0,0.0
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati, Pune",0613710110,BCA,State Level,MCA,0,0.0
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,22308,50.364279
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,36638,14.2898363
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,State Level,CAP,6141,0.0
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,State Level,III,0,0.0
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,State Level,BCA,0,0.0
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune",0613810110,BCA,State Level,MCA,0,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,GSCS,22473,50.0288268
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,GSTS,6592,85.9337806
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,GOBCS,4803,89.6489399
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,GSEBCS,36287,15.0017379
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,PWDOPENS,0,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,EWS,0,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,PWD,83,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,DEF,8786394,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,CAP,6143,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,III,0,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,BCA,0,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",0614110110,BCA,State Level,MCA,0,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,23978,46.308226
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,23118,47.8179326
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,Home University Seats Allotted to Home University Candidates,LOBCH,38347,9.649755
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOBCO,39956,4.5330066
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSEBCO,0,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSTO,0,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,State Level,ORPHAN,9827,78.3941606
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,State Level,TFWS,0,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,State Level,CAP,6144,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,State Level,III,0,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,State Level,BCA,0,0.0
+6143,"JSPM's Jayawantrao Sawant Institute of Management & Research, Hadapsar, Pune",0614310110,BCA,State Level,MCA,0,0.0
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",0614410110,BCA,State Level,CAP,6145,0.0
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",0614410110,BCA,State Level,III,0,0.0
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",0614410110,BCA,State Level,BCA,0,0.0
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune",0614410110,BCA,State Level,MCA,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,20926,53.1270288
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,14242,68.8671087
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSTO,31103,28.717414
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOBCO,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSEBCO,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,State Level,ORPHAN,10905,75.8648025
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,State Level,TFWS,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,State Level,CAP,6179,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,State Level,III,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,State Level,BCA,0,0.0
+6145,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",0614510110,BCA,State Level,MCA,0,0.0
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),Unknown,MASTER,0,0.0
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),Unknown,COMPUTER,0,0.0
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,GOPENS,10315,77.4940489
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,LOPENS,31081,28.717414
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,CAP,6208,0.0
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,III,0,0.0
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,BCA,0,0.0
+6179,"Indira College of Engineering & Management, Pune",0617900110,MASTER OF COMPUTER APPLICATIONS (INTEGRATED),State Level,MCA,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,24323,44.9181274
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,29538,32.4805419
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,Home University Seats Allotted to Home University Candidates,LNTDH,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,State Level,CAP,6210,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,State Level,III,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,State Level,BCA,0,0.0
+6208,"Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",0620810110,BCA,State Level,MCA,0,0.0
+6210,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil Institute of Management Studies & Research, Satara",0621010110,BCA,State Level,CAP,6211,0.0
+6210,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil Institute of Management Studies & Research, Satara",0621010110,BCA,State Level,III,0,0.0
+6210,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil Institute of Management Studies & Research, Satara",0621010110,BCA,State Level,BCA,0,0.0
+6210,"Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil Institute of Management Studies & Research, Satara",0621010110,BCA,State Level,MCA,0,0.0
+6211,"S.A.P.D.J. Pathshala's Hirachand Nemchand College of Commerce Department of Management Studies, Solapur",0621110110,BCA,State Level,CAP,6213,0.0
+6211,"S.A.P.D.J. Pathshala's Hirachand Nemchand College of Commerce Department of Management Studies, Solapur",0621110110,BCA,State Level,III,0,0.0
+6211,"S.A.P.D.J. Pathshala's Hirachand Nemchand College of Commerce Department of Management Studies, Solapur",0621110110,BCA,State Level,BCA,0,0.0
+6211,"S.A.P.D.J. Pathshala's Hirachand Nemchand College of Commerce Department of Management Studies, Solapur",0621110110,BCA,State Level,MCA,0,0.0
+6213,"Chh. Shahu Institute Of Business Edu And Res Vasantraodada Patil Institute Of Management Studies & Research, Sangli",0621310110,BCA,State Level,CAP,6283,0.0
+6213,"Chh. Shahu Institute Of Business Edu And Res Vasantraodada Patil Institute Of Management Studies & Research, Sangli",0621310110,BCA,State Level,III,0,0.0
+6213,"Chh. Shahu Institute Of Business Edu And Res Vasantraodada Patil Institute Of Management Studies & Research, Sangli",0621310110,BCA,State Level,BCA,0,0.0
+6213,"Chh. Shahu Institute Of Business Edu And Res Vasantraodada Patil Institute Of Management Studies & Research, Sangli",0621310110,BCA,State Level,MCA,0,0.0
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",0628310110,BCA,State Level,CAP,6311,0.0
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",0628310110,BCA,State Level,III,0,0.0
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",0628310110,BCA,State Level,BCA,0,0.0
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",0628310110,BCA,State Level,MCA,0,0.0
+6311,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",0631110110,BCA,State Level,CAP,6622,0.0
+6311,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",0631110110,BCA,State Level,III,0,0.0
+6311,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",0631110110,BCA,State Level,BCA,0,0.0
+6311,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",0631110110,BCA,State Level,MCA,0,0.0
+6622,ISBM College Of Engineering Pune,0662210310,Bachelor of Computer Application (BCA),State Level,CAP,6628,0.0
+6622,ISBM College Of Engineering Pune,0662210310,Bachelor of Computer Application (BCA),State Level,III,0,0.0
+6622,ISBM College Of Engineering Pune,0662210310,Bachelor of Computer Application (BCA),State Level,BCA,0,0.0
+6622,ISBM College Of Engineering Pune,0662210310,Bachelor of Computer Application (BCA),State Level,MCA,0,0.0
+6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",0662810110,BCA,State Level,CAP,6632,0.0
+6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",0662810110,BCA,State Level,III,0,0.0
+6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",0662810110,BCA,State Level,BCA,0,0.0
+6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",0662810110,BCA,State Level,MCA,0,0.0
+6632,Navsahyadri Education Society's Group of Institutions,0663210110,BCA,State Level,CAP,6737,0.0
+6632,Navsahyadri Education Society's Group of Institutions,0663210110,BCA,State Level,III,0,0.0
+6632,Navsahyadri Education Society's Group of Institutions,0663210110,BCA,State Level,BCA,0,0.0
+6632,Navsahyadri Education Society's Group of Institutions,0663210110,BCA,State Level,MCA,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,26256,41.2480499
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,37969,9.991328
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Home University Seats Allotted to Home University Candidates,GNTCH,27842,36.5505302
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCH,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,28612,35.7307581
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GNTCO,32519,25.2763295
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSEBCO,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,State Level,DEFOPENS,32907,24.0811232
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,State Level,TFWS,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,State Level,CAP,6757,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,State Level,III,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,State Level,BCA,0,0.0
+6737,"Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",0673710110,BCA,State Level,MCA,0,0.0
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675710110,BCA,Home University Seats Allotted to Home University Candidates,GOBCO,22757,49.1482059
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675710110,BCA,Home University Seats Allotted to Home University Candidates,LSCO,0,0.0
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675710110,BCA,State Level,CAP,6758,0.0
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675710110,BCA,State Level,III,0,0.0
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675710110,BCA,State Level,BCA,0,0.0
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675710110,BCA,State Level,MCA,0,0.0
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",0675810110,BCA,State Level,CAP,6775,0.0
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",0675810110,BCA,State Level,III,0,0.0
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",0675810110,BCA,State Level,BCA,0,0.0
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",0675810110,BCA,State Level,MCA,0,0.0
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",0677510110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,14258,68.8671087
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",0677510110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,0,0.0
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",0677510110,BCA,State Level,CAP,6812,0.0
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",0677510110,BCA,State Level,III,0,0.0
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",0677510110,BCA,State Level,BCA,0,0.0
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",0677510110,BCA,State Level,MCA,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,GOPENS,27412,38.6350533
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,GSCS,29775,32.3044838
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,GSTS,23516,47.2754604
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,GNTAS,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,GNTDS,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,GOBCS,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,LOPENS,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,LNTAS,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,CAP,6822,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,III,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,BCA,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune",0681210110,BCA,State Level,MCA,0,0.0
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,10419,77.4940489
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Home University Seats Allotted to Home University Candidates,GNTCH,20435,54.7225354
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,15249,66.416406
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,21989,50.5596107
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Home University Seats Allotted to Home University Candidates,LOBCH,0,0.0
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,6478,85.9337806
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LNTDO,9534,79.2159124
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOBCO,9541,79.2159124
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,State Level,EWS,12985,71.4203275
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,State Level,TFWS,3002,93.7190287
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,State Level,CAP,6899,0.0
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,State Level,III,0,0.0
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,State Level,BCA,0,0.0
+6822,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",0682210110,BCA,State Level,MCA,0,0.0
+6899,"Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",0689910110,BCA,State Level,GOPENS,32024,26.246757
+6899,"Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",0689910110,BCA,State Level,GNTDS,0,0.0
+6899,"Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",0689910110,BCA,State Level,CAP,6971,0.0
+6899,"Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",0689910110,BCA,State Level,III,0,0.0
+6899,"Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",0689910110,BCA,State Level,BCA,0,0.0
+6899,"Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",0689910110,BCA,State Level,MCA,0,0.0
+6990,Jaihind Institute of Management and Research,0699010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,39705,5.3945082
+6990,Jaihind Institute of Management and Research,0699010110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,23714,47.1173249
+6990,Jaihind Institute of Management and Research,0699010110,BCA,State Level,CAP,6992,0.0
+6990,Jaihind Institute of Management and Research,0699010110,BCA,State Level,III,0,0.0
+6990,Jaihind Institute of Management and Research,0699010110,BCA,State Level,BCA,0,0.0
+6990,Jaihind Institute of Management and Research,0699010110,BCA,State Level,MCA,0,0.0
+6992,"Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune",0699210110,BCA,State Level,CAP,16130,0.0
+6992,"Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune",0699210110,BCA,State Level,III,0,0.0
+6992,"Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune",0699210110,BCA,State Level,BCA,0,0.0
+6992,"Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune",0699210110,BCA,State Level,MCA,0,0.0
+16158,KARMAVEER BHAURAO PATIL ISLAMPUR,1615810110,BCA,State Level,CAP,16162,0.0
+16158,KARMAVEER BHAURAO PATIL ISLAMPUR,1615810110,BCA,State Level,III,0,0.0
+16158,KARMAVEER BHAURAO PATIL ISLAMPUR,1615810110,BCA,State Level,BCA,0,0.0
+16158,KARMAVEER BHAURAO PATIL ISLAMPUR,1615810110,BCA,State Level,MCA,0,0.0
+16201,SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI,1620110110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,35651,17.1807437
+16201,SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI,1620110110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+16201,SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI,1620110110,BCA,State Level,CAP,16207,0.0
+16201,SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI,1620110110,BCA,State Level,III,0,0.0
+16201,SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI,1620110110,BCA,State Level,BCA,0,0.0
+16201,SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI,1620110110,BCA,State Level,MCA,0,0.0
+16208,P.JOG COLLEGE OF SCIENCE AND COMMERCE,1620810110,BCA,State Level,CAP,16215,0.0
+16208,P.JOG COLLEGE OF SCIENCE AND COMMERCE,1620810110,BCA,State Level,III,0,0.0
+16208,P.JOG COLLEGE OF SCIENCE AND COMMERCE,1620810110,BCA,State Level,BCA,0,0.0
+16208,P.JOG COLLEGE OF SCIENCE AND COMMERCE,1620810110,BCA,State Level,MCA,0,0.0
+16215,PADMABHUSHAN DR.VASANTRAODADA PATIL MAHAVIDYLAYA TASGAON,1621510110,BCA,State Level,CAP,16220,0.0
+16215,PADMABHUSHAN DR.VASANTRAODADA PATIL MAHAVIDYLAYA TASGAON,1621510110,BCA,State Level,III,0,0.0
+16215,PADMABHUSHAN DR.VASANTRAODADA PATIL MAHAVIDYLAYA TASGAON,1621510110,BCA,State Level,BCA,0,0.0
+16215,PADMABHUSHAN DR.VASANTRAODADA PATIL MAHAVIDYLAYA TASGAON,1621510110,BCA,State Level,MCA,0,0.0
+16220,NEW SATARA COLLEGE OF BCA,1622010110,BCA,State Level,CAP,16222,0.0
+16220,NEW SATARA COLLEGE OF BCA,1622010110,BCA,State Level,III,0,0.0
+16220,NEW SATARA COLLEGE OF BCA,1622010110,BCA,State Level,BCA,0,0.0
+16220,NEW SATARA COLLEGE OF BCA,1622010110,BCA,State Level,MCA,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,16049,64.8962237
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,23816,47.1173249
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,22640,49.7056245
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,16539,62.9521804
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,LSTH,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,LNTCH,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,24683,44.7619048
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSCO,36543,14.2898363
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOBCO,25729,41.8908585
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,12872,71.4203275
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LNTCO,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,State Level,ORPHAN,24342,44.9181274
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,State Level,TFWS,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,State Level,CAP,16226,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,State Level,III,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,State Level,BCA,0,0.0
+16222,MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES,1622210110,BCA,State Level,MCA,0,0.0
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,GSCS,9883,78.3941606
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,GSTS,8690,81.2106084
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,GNTAS,0,0.0
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,GOBCS,0,0.0
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,CAP,16229,0.0
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,III,0,0.0
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,BCA,0,0.0
+16226,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE,1622610110,BCA,State Level,MCA,0,0.0
+16229,DESHBHAKT HARINARAYAN BANKATLAL SONI COLLEGE SOLAPUR,1622910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENO,30814,29.2735659
+16229,DESHBHAKT HARINARAYAN BANKATLAL SONI COLLEGE SOLAPUR,1622910110,BCA,Home University Seats Allotted to Home University Candidates,LOPENO,38906,7.4446178
+16229,DESHBHAKT HARINARAYAN BANKATLAL SONI COLLEGE SOLAPUR,1622910110,BCA,State Level,CAP,16231,0.0
+16229,DESHBHAKT HARINARAYAN BANKATLAL SONI COLLEGE SOLAPUR,1622910110,BCA,State Level,III,0,0.0
+16229,DESHBHAKT HARINARAYAN BANKATLAL SONI COLLEGE SOLAPUR,1622910110,BCA,State Level,BCA,0,0.0
+16229,DESHBHAKT HARINARAYAN BANKATLAL SONI COLLEGE SOLAPUR,1622910110,BCA,State Level,MCA,0,0.0
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,GOPENS,35103,18.5331943
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,LOPENS,23267,47.7094195
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,TFWS,12301,72.7514866
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,CAP,16233,0.0
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,III,0,0.0
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,BCA,0,0.0
+16232,MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE,1623210110,BCA,State Level,MCA,0,0.0
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,26915,38.8321168
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,28488,35.7307581
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,18776,57.96339
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,26078,41.6402421
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,22434,50.0288268
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,State Level,CAP,16235,0.0
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,State Level,III,0,0.0
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,State Level,BCA,0,0.0
+16233,MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE,1623310110,BCA,State Level,MCA,0,0.0
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,GOPENS,3827,91.7274939
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,GSTS,10269,77.4940489
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,GNTDS,0,0.0
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,LNTBS,0,0.0
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,CAP,16236,0.0
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,III,0,0.0
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,BCA,0,0.0
+16235,INDIRA COLLEGE OF COMMERCE AND SCIENCE,1623510110,BCA,State Level,MCA,0,0.0
+16236,AUDYOGIK TANTRA SHIKSHAN SANSTHA ATSS COLLEGE OF BUSINESS STUDIES AND COMPUTER APPLICATION,1623610110,BCA,State Level,CAP,16237,0.0
+16236,AUDYOGIK TANTRA SHIKSHAN SANSTHA ATSS COLLEGE OF BUSINESS STUDIES AND COMPUTER APPLICATION,1623610110,BCA,State Level,III,0,0.0
+16236,AUDYOGIK TANTRA SHIKSHAN SANSTHA ATSS COLLEGE OF BUSINESS STUDIES AND COMPUTER APPLICATION,1623610110,BCA,State Level,BCA,0,0.0
+16236,AUDYOGIK TANTRA SHIKSHAN SANSTHA ATSS COLLEGE OF BUSINESS STUDIES AND COMPUTER APPLICATION,1623610110,BCA,State Level,MCA,0,0.0
+16237,RAJMATA JIJAU SHIKSHAN PRASARAK MANDALS ARTS COMMERCE AND SCIENCE COLLEGE BHOSARI PUNE,1623710110,BCA,State Level,CAP,16246,0.0
+16237,RAJMATA JIJAU SHIKSHAN PRASARAK MANDALS ARTS COMMERCE AND SCIENCE COLLEGE BHOSARI PUNE,1623710110,BCA,State Level,III,0,0.0
+16237,RAJMATA JIJAU SHIKSHAN PRASARAK MANDALS ARTS COMMERCE AND SCIENCE COLLEGE BHOSARI PUNE,1623710110,BCA,State Level,BCA,0,0.0
+16237,RAJMATA JIJAU SHIKSHAN PRASARAK MANDALS ARTS COMMERCE AND SCIENCE COLLEGE BHOSARI PUNE,1623710110,BCA,State Level,MCA,0,0.0
+16246,SAMARTH COLLEGE OF COMPUTER SCIENCE,1624610110,BCA,State Level,CAP,16252,0.0
+16246,SAMARTH COLLEGE OF COMPUTER SCIENCE,1624610110,BCA,State Level,III,0,0.0
+16246,SAMARTH COLLEGE OF COMPUTER SCIENCE,1624610110,BCA,State Level,BCA,0,0.0
+16246,SAMARTH COLLEGE OF COMPUTER SCIENCE,1624610110,BCA,State Level,MCA,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,GOPENS,15619,64.9426531
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,GSTS,21789,50.5596107
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,GNTAS,12038,73.4473058
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,GNTDS,6002,87.1185262
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,GOBCS,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,LSCS,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,LSEBCS,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,DEFOPENS,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,TFWS,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,PWD,64,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,DEF,9033697,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,CAP,16264,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,III,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,BCA,0,0.0
+16252,PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE,1625210110,BCA,State Level,MCA,0,0.0
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,GOPENS,36694,14.2898363
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,LOPENS,41021,1.0243093
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,TFWS,26291,41.2480499
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,CAP,16269,0.0
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,III,0,0.0
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,BCA,0,0.0
+16264,HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE,1626410110,BCA,State Level,MCA,0,0.0
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,GOPENS,12967,71.4203275
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,LOPENS,20694,53.2499131
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,TFWS,6193,86.3144999
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,CAP,16270,0.0
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,III,0,0.0
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,BCA,0,0.0
+16269,G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE,1626910110,BCA,State Level,MCA,0,0.0
+16270,INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES,1627010110,BCA,State Level,CAP,16271,0.0
+16270,INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES,1627010110,BCA,State Level,III,0,0.0
+16270,INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES,1627010110,BCA,State Level,BCA,0,0.0
+16270,INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES,1627010110,BCA,State Level,MCA,0,0.0
+16271,AAER'S ASIAN COLLEGE OF SCIENCE AND COMMERCE,1627110110,BCA,State Level,CAP,16281,0.0
+16271,AAER'S ASIAN COLLEGE OF SCIENCE AND COMMERCE,1627110110,BCA,State Level,III,0,0.0
+16271,AAER'S ASIAN COLLEGE OF SCIENCE AND COMMERCE,1627110110,BCA,State Level,BCA,0,0.0
+16271,AAER'S ASIAN COLLEGE OF SCIENCE AND COMMERCE,1627110110,BCA,State Level,MCA,0,0.0
+16281,SIDDHI COLLEGE OF MANAGEMENT AND BUSINESS STUDIES DAPODI,1628110110,BCA,State Level,CAP,16287,0.0
+16281,SIDDHI COLLEGE OF MANAGEMENT AND BUSINESS STUDIES DAPODI,1628110110,BCA,State Level,III,0,0.0
+16281,SIDDHI COLLEGE OF MANAGEMENT AND BUSINESS STUDIES DAPODI,1628110110,BCA,State Level,BCA,0,0.0
+16281,SIDDHI COLLEGE OF MANAGEMENT AND BUSINESS STUDIES DAPODI,1628110110,BCA,State Level,MCA,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,17808,60.3614877
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,31352,28.3665289
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,LSCH,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,29113,33.9609031
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCH,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,10613,76.8647897
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSCO,19182,57.9095434
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSEBCO,33157,23.0758144
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSTO,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LSEBCO,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,State Level,CAP,16288,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,State Level,III,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,State Level,BCA,0,0.0
+16287,SINHGAD COLLEGE OF SCIENCE,1628710110,BCA,State Level,MCA,0,0.0
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,29537,32.4805419
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,17895,60.3614877
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,25329,42.2275121
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,39683,5.3945082
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,State Level,CAP,16289,0.0
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,State Level,III,0,0.0
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,State Level,BCA,0,0.0
+16288,SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE,1628810110,BCA,State Level,MCA,0,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,19167,57.9095434
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,Home University Seats Allotted to Home University Candidates,GSCH,27108,38.8321168
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,DEFOPENS,4740,90.0093775
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,ORPHAN,0,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,TFWS,0,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,CAP,16290,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,III,0,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,BCA,0,0.0
+16289,SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE,1628910110,BCA,State Level,MCA,0,0.0
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,16496,62.9521804
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,14587,67.1788213
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENO,34778,19.4690904
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,Home University Seats Allotted to Home University Candidates,LOPENO,31618,27.908822
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,State Level,CAP,16296,0.0
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,State Level,III,0,0.0
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,State Level,BCA,0,0.0
+16290,SINHGAD COLLEGE OF COMMERCE,1629010110,BCA,State Level,MCA,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,28281,35.8706986
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,23383,47.7094195
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,GSEBCH,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,GSTO,29873,32.3044838
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,Home University Seats Allotted to Home University Candidates,GOBCO,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,State Level,CAP,16299,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,State Level,III,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,State Level,BCA,0,0.0
+16296,D. A. V. VELANKAR COLLEGE OF COMMERCE SOLAPUR,1629610110,BCA,State Level,MCA,0,0.0
+16299,PRIN DR SUDHAKARRAO JADHAVAR ARTS COMMERCE AND SCIENCE COLLEGE,1629910110,BCA,State Level,CAP,16300,0.0
+16299,PRIN DR SUDHAKARRAO JADHAVAR ARTS COMMERCE AND SCIENCE COLLEGE,1629910110,BCA,State Level,III,0,0.0
+16299,PRIN DR SUDHAKARRAO JADHAVAR ARTS COMMERCE AND SCIENCE COLLEGE,1629910110,BCA,State Level,BCA,0,0.0
+16299,PRIN DR SUDHAKARRAO JADHAVAR ARTS COMMERCE AND SCIENCE COLLEGE,1629910110,BCA,State Level,MCA,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,23919,46.6708268
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Home University Seats Allotted to Home University Candidates,PWDOPENH,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Home University Seats Allotted to Home University Candidates,GSTH,21902,50.5596107
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,17765,60.3614877
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSTO,22837,48.4204658
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,State Level,CAP,16304,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,State Level,III,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,State Level,BCA,0,0.0
+16300,VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE,1630010110,BCA,State Level,MCA,0,0.0
+16304,SNBP'S INSTITUTE OF MANAGEMENT,1630410110,BCA,State Level,CAP,16308,0.0
+16304,SNBP'S INSTITUTE OF MANAGEMENT,1630410110,BCA,State Level,III,0,0.0
+16304,SNBP'S INSTITUTE OF MANAGEMENT,1630410110,BCA,State Level,BCA,0,0.0
+16304,SNBP'S INSTITUTE OF MANAGEMENT,1630410110,BCA,State Level,MCA,0,0.0
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,19284,57.2466491
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,Home University Seats Allotted to Home University Candidates,LNTDH,0,0.0
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOPENO,18367,59.276131
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GSCO,0,0.0
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,State Level,CAP,16325,0.0
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,State Level,III,0,0.0
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,State Level,BCA,0,0.0
+16308,AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY,1630810110,BCA,State Level,MCA,0,0.0
+16325,BHARAT SHIKSHAN PRASARAK MANDAL JAIKRANTI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT STUDIES,1632510110,BCA,State Level,CAP,16327,0.0
+16325,BHARAT SHIKSHAN PRASARAK MANDAL JAIKRANTI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT STUDIES,1632510110,BCA,State Level,III,0,0.0
+16325,BHARAT SHIKSHAN PRASARAK MANDAL JAIKRANTI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT STUDIES,1632510110,BCA,State Level,BCA,0,0.0
+16325,BHARAT SHIKSHAN PRASARAK MANDAL JAIKRANTI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT STUDIES,1632510110,BCA,State Level,MCA,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Home University Seats Allotted to Home University Candidates,GOPENH,22823,49.1482059
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Home University Seats Allotted to Home University Candidates,GNTBH,26021,41.6402421
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Home University Seats Allotted to Home University Candidates,GOBCH,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Home University Seats Allotted to Home University Candidates,LOPENH,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Home University Seats Allotted to Home University Candidates,LSEBCH,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,GOBCO,40536,2.7389642
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,Other Than Home University Seats Allotted to Other Than Home University Candidates,LOPENO,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,State Level,CAP,16334,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,State Level,III,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,State Level,BCA,0,0.0
+16332,PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR,1633210110,BCA,State Level,MCA,0,0.0

@@ -1,0 +1,17 @@
+{
+  "examId": "bca-mca-integrated-cap-round-3",
+  "examName": "BCA / MCA (Integrated) CAP ROUND 3",
+  "year": "2024-2025",
+  "pdfFileName": "bca-mca-integrated-cap-round-3_2024-2025.pdf",
+  "uploadedAt": "2025-12-14T08:02:01.993Z",
+  "category": "technical-education",
+  "parserStrategy": "engineering_format",
+  "parsedAt": "2025-12-14T08:02:11.579Z",
+  "csvFileName": "cutoffs_bca-mca-integrated-cap-round-3.csv",
+  "hasData": true,
+  "recordCount": 904,
+  "pdfAnalysis": {
+    "format_type": "engineering_cutoff",
+    "parsing_strategy": "engineering_format"
+  }
+}

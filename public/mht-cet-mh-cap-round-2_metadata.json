@@ -1,0 +1,17 @@
+{
+  "examId": "mht-cet-mh-cap-round-2",
+  "examName": "MHT-CET MH CAP ROUND 2",
+  "year": "2024-2025",
+  "pdfFileName": "mht-cet-mh-cap-round-2_2024-2025.pdf",
+  "uploadedAt": "2025-12-14T07:51:07.896Z",
+  "category": "technical-education",
+  "parserStrategy": "engineering_format",
+  "parsedAt": "2025-12-14T07:52:29.762Z",
+  "csvFileName": "cutoffs_mht-cet-mh-cap-round-2.csv",
+  "hasData": true,
+  "recordCount": 11135,
+  "pdfAnalysis": {
+    "format_type": "engineering_cutoff",
+    "parsing_strategy": "engineering_format"
+  }
+}

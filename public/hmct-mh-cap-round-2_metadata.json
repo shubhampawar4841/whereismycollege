@@ -1,0 +1,17 @@
+{
+  "examId": "hmct-mh-cap-round-2",
+  "examName": "HMCT MH CAP ROUND 2",
+  "year": "2024-2025",
+  "pdfFileName": "hmct-mh-cap-round-2_2024-2025.pdf",
+  "uploadedAt": "2025-12-14T08:12:58.069Z",
+  "category": "technical-education",
+  "parserStrategy": "engineering_format",
+  "parsedAt": "2025-12-14T08:12:59.848Z",
+  "csvFileName": "cutoffs_hmct-mh-cap-round-2.csv",
+  "hasData": true,
+  "recordCount": 10,
+  "pdfAnalysis": {
+    "format_type": "engineering_cutoff",
+    "parsing_strategy": "engineering_format"
+  }
+}

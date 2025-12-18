@@ -1,0 +1,56 @@
+college_code,college_name,course_code,course_name,seat_type,category,rank,percentile
+3244,"Bharati Vidyapeeth's College of Architecture, Belapur, Navi Mumbai",324404910,Project Management,State Level,GOPENS,121,71.9047619
+3244,"Bharati Vidyapeeth's College of Architecture, Belapur, Navi Mumbai",324404910,Project Management,State Level,GSCS,172,54.1666667
+3244,"Bharati Vidyapeeth's College of Architecture, Belapur, Navi Mumbai",324404910,Project Management,State Level,GSTS,0,0.0
+3244,"Bharati Vidyapeeth's College of Architecture, Belapur, Navi Mumbai",324404910,Project Management,State Level,CAP,3246,0.0
+3244,"Bharati Vidyapeeth's College of Architecture, Belapur, Navi Mumbai",324404910,Project Management,State Level,ARCH,0,0.0
+3246,"Rizvi College of Architecture,Bandra(W), Mumbai",324604710,Urban Design,State Level,CAP,3247,0.0
+3246,"Rizvi College of Architecture,Bandra(W), Mumbai",324604710,Urban Design,State Level,ARCH,0,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704610,Urban Conservation,State Level,CAP,3247,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704610,Urban Conservation,State Level,ARCH,0,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,GSEBCS,47,91.4285714
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,GOPENS,248,15.5952381
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,GSCS,139,63.5714286
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,GSTS,0,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,GNTBS,0,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,GOBCS,0,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,CAP,3248,0.0
+3247,"Kamla Raheja Vidhyanidhi Institute for Architecture and Environmental Studies, Mumbai",324704710,Urban Design,State Level,ARCH,0,0.0
+3248,"Late Baliram Hiray S.S. Trust's Dr.Baliram Hiray College of Architecture, Mumbai",324804910,Project Management,State Level,GOPENS,56,88.2142857
+3248,"Late Baliram Hiray S.S. Trust's Dr.Baliram Hiray College of Architecture, Mumbai",324804910,Project Management,State Level,GSCS,227,27.1428571
+3248,"Late Baliram Hiray S.S. Trust's Dr.Baliram Hiray College of Architecture, Mumbai",324804910,Project Management,State Level,GSTS,0,0.0
+3248,"Late Baliram Hiray S.S. Trust's Dr.Baliram Hiray College of Architecture, Mumbai",324804910,Project Management,State Level,CAP,3249,0.0
+3248,"Late Baliram Hiray S.S. Trust's Dr.Baliram Hiray College of Architecture, Mumbai",324804910,Project Management,State Level,ARCH,0,0.0
+3249,"Indian Education Society's College of Architecture, Mumbai",324904910,Project Management,State Level,CAP,3468,0.0
+3249,"Indian Education Society's College of Architecture, Mumbai",324904910,Project Management,State Level,ARCH,0,0.0
+3468,"Aditya College of Architecture, Borivali (W), Mumbai",346804910,Project Management,State Level,CAP,3496,0.0
+3468,"Aditya College of Architecture, Borivali (W), Mumbai",346804910,Project Management,State Level,ARCH,0,0.0
+3496,"Vivekanand Education Society's College of Architecture, Chembur, Mumbai",349604710,Urban Design,State Level,CAP,4214,0.0
+3496,"Vivekanand Education Society's College of Architecture, Chembur, Mumbai",349604710,Urban Design,State Level,ARCH,0,0.0
+4214,"Smt. Manoramabai Mundle College of Architecture, Nagpur",421403210,Architecture,State Level,CAP,4214,0.0
+4214,"Smt. Manoramabai Mundle College of Architecture, Nagpur",421403210,Architecture,State Level,ARCH,0,0.0
+4214,"Smt. Manoramabai Mundle College of Architecture, Nagpur",421404710,Urban Design,State Level,CAP,4216,0.0
+4214,"Smt. Manoramabai Mundle College of Architecture, Nagpur",421404710,Urban Design,State Level,ARCH,0,0.0
+4216,"Lokmanya Tilak Jankalyan Shikshan Sanths's Priyadarshani Institute of Architecture and Design Studies, Nagpur",421604010,Landscape Architecture,State Level,CAP,6261,0.0
+4216,"Lokmanya Tilak Jankalyan Shikshan Sanths's Priyadarshani Institute of Architecture and Design Studies, Nagpur",421604010,Landscape Architecture,State Level,ARCH,0,0.0
+6263,"Sinhgad College of Architecture, Vadgaon (BK), Pune",626324810,Computer Applications,State Level,CAP,6264,0.0
+6263,"Sinhgad College of Architecture, Vadgaon (BK), Pune",626324810,Computer Applications,State Level,ARCH,0,0.0
+6264,"Shree Prince Shivaji Maratha Boarding's College of Architecture, Kolhapur",626421010,Construction Management,State Level,CAP,6536,0.0
+6264,"Shree Prince Shivaji Maratha Boarding's College of Architecture, Kolhapur",626421010,Construction Management,State Level,ARCH,0,0.0
+6536,"Vivekanad Institute of Technology Padmbhushan Vasantdada Patil College of Architecture, Pune",653604710,Urban Design,State Level,CAP,6538,0.0
+6536,"Vivekanad Institute of Technology Padmbhushan Vasantdada Patil College of Architecture, Pune",653604710,Urban Design,State Level,ARCH,0,0.0
+6538,"Padmashree Dr.D.Y.Patil College of Architecture, Pune",653821010,Construction Management,State Level,GSEBCS,242,15.5952381
+6538,"Padmashree Dr.D.Y.Patil College of Architecture, Pune",653821010,Construction Management,State Level,GSCS,0,0.0
+6538,"Padmashree Dr.D.Y.Patil College of Architecture, Pune",653821010,Construction Management,State Level,GSTS,0,0.0
+6538,"Padmashree Dr.D.Y.Patil College of Architecture, Pune",653821010,Construction Management,State Level,GOBCS,0,0.0
+6538,"Padmashree Dr.D.Y.Patil College of Architecture, Pune",653821010,Construction Management,State Level,CAP,6807,0.0
+6538,"Padmashree Dr.D.Y.Patil College of Architecture, Pune",653821010,Construction Management,State Level,ARCH,0,0.0
+6807,"Ayojan School of Architecture and Design, Pune",680704710,Urban Design,State Level,CAP,6818,0.0
+6807,"Ayojan School of Architecture and Design, Pune",680704710,Urban Design,State Level,ARCH,0,0.0
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,GOPENS,107,71.9047619
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,GSCS,0,0.0
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,GNTAS,0,0.0
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,GNTCS,0,0.0
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,GOBCS,0,0.0
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,CAP,6885,0.0
+6818,"Satish Misal Educational Foundation's BRICK school of Architecture, Pune",681859610,Design and Project Management,State Level,ARCH,0,0.0

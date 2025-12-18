@@ -1,0 +1,17 @@
+{
+  "examId": "m-architecture-cap-round-1",
+  "examName": "M.Architecture CAP ROUND 1",
+  "year": "2023-2024",
+  "pdfFileName": "m-architecture-cap-round-1_2023-2024.pdf",
+  "uploadedAt": "2025-12-14T07:34:27.588Z",
+  "category": "technical-education",
+  "parserStrategy": "engineering_format",
+  "parsedAt": "2025-12-14T07:34:30.132Z",
+  "csvFileName": "cutoffs_m-architecture-cap-round-1.csv",
+  "hasData": true,
+  "recordCount": 75,
+  "pdfAnalysis": {
+    "format_type": "engineering_cutoff",
+    "parsing_strategy": "engineering_format"
+  }
+}
