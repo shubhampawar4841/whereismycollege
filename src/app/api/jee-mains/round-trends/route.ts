@@ -70,6 +70,14 @@ function getRecordsForYearRound(
    API ROUTE
 ========================= */
 
+interface RoundTrend {
+  round: string
+  roundName: string
+  openingRank: number | null
+  closingRank: number | null
+  found: boolean
+}
+
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url)
@@ -78,11 +86,11 @@ export async function GET(request: Request) {
     const quota = searchParams.get('quota')
     const seatType = searchParams.get('seatType')
     const branch = searchParams.get('branch')
-    const round = searchParams.get('round')
+    const year = searchParams.get('year')
 
-    if (!college || !quota || !seatType || !branch || !round) {
+    if (!college || !quota || !seatType || !branch || !year) {
       return NextResponse.json(
-        { error: 'College, quota, seat type, branch and round are required' },
+        { error: 'College, quota, seat type, branch and year are required' },
         { status: 400 }
       )
     }
@@ -92,13 +100,13 @@ export async function GET(request: Request) {
     const seatTypeLower = seatType.toLowerCase()
     const quotaLower = quota.toLowerCase()
 
-    const trends: YearTrend[] = []
+    const trends: RoundTrend[] = []
 
     /* =========================
-       PROCESS EACH YEAR
+       PROCESS EACH ROUND FOR THE SPECIFIED YEAR
     ========================= */
 
-    for (const year of years) {
+    for (const round of rounds) {
       const records = getRecordsForYearRound(year, round)
 
       const match = records.find((r) => {
@@ -124,16 +132,20 @@ export async function GET(request: Request) {
         )
       })
 
+      const roundName = round.charAt(0).toUpperCase() + round.slice(1).replace('round', 'Round ')
+
       if (match) {
         trends.push({
-          year,
+          round,
+          roundName,
           openingRank: match['opening rank'] || null,
           closingRank: match['closing rank'] || null,
           found: true,
         })
       } else {
         trends.push({
-          year,
+          round,
+          roundName,
           openingRank: null,
           closingRank: null,
           found: false,
@@ -152,11 +164,11 @@ export async function GET(request: Request) {
       quota,
       seatType,
       branch,
-      round,
+      year,
     })
-  } catch {
+  } catch (error: any) {
     return NextResponse.json(
-      { error: 'Failed to fetch trends' },
+      { error: 'Failed to fetch round trends', details: error.message },
       { status: 500 }
     )
   }
