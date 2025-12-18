@@ -5,7 +5,7 @@ import { ArrowRight, Upload, FileText, Loader2 } from 'lucide-react'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import Link from 'next/link'
 import { examCategories, allExams, type ExamType } from '@/lib/exam-categories'
-import { UserMenu } from '@/components/auth/user-menu'
+// import { UserMenu } from '@/components/auth/user-menu'
 
 interface UploadedExam {
   id: string
@@ -62,7 +62,8 @@ export default function Home() {
               </h1>
             </div>
             <div className="flex-1 flex justify-end">
-              <UserMenu />
+              {/* Login Menu - Commented out */}
+              {/* <UserMenu /> */}
             </div>
           </div>
           {/* Upload PDF Button - Hidden from public UI */}
